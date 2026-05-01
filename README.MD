@@ -2,6 +2,16 @@
 
 This is the new age for consultants. One without PPTX and the decades of obsolete baggage the industry carries over every day.
 
+## How to use this project?
+
+Start docusaurus locally:
+
+```bash
+cd hand-over
+npm i
+npm start
+```
+
 ## Project structure
 
 As for any engagement's successful team work, we have to set up a few common ground rules:
