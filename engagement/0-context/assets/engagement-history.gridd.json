@@ -1,0 +1,651 @@
+{
+  "cols": [
+    1.6800125389559795,
+    0.43674928580703803,
+    1.6800125389559795,
+    0.43674928580703803,
+    1.6800125389559795,
+    0.43674928580703803,
+    1.6800125389559795
+  ],
+  "rows": [
+    1.0478812984525465,
+    1.3682151570709844
+  ],
+  "cells": [
+    [
+      {
+        "id": "3af13709-e3f2-4529-9acc-8106e238f6c0",
+        "text": "Agile transformation",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Agile transformation"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "93308f26-a657-428c-959c-53181de3591f",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "41bb1002-675a-44ee-8915-530b38a45e11",
+        "text": "Break-out business analysis",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Break-out business analysis"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7490f4b9-ec83-44e5-a734-afe1649379dd",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "d7aba1e3-f7de-44a7-b897-df0540a3b29a",
+        "text": "Advanced analytics",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Advanced analytics"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "39fd3ab7-5ea3-4b2b-a8bb-8ad0d73ae8c6",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "9ca97d1f-b3be-450f-90d8-ebe82c459869",
+        "text": "Digital transformation strategy",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Digital transformation strategy"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "8efa86ff-994a-4578-8bec-95c0aae0d7e0",
+        "text": "6 months. Built 3 digital labs and launched the mobile store in 3 countries. ~50M EUR revenue at 15M EUR cost.",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "6 months. Built 3 digital labs and launched the mobile store in 3 countries. ~50M EUR revenue at 15M EUR cost."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "0b282437-48f1-4517-ad48-7a19c0ce2fa6",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "cb0a012e-0903-4293-81f7-724bf2bd6cb4",
+        "text": "2 months. Validated 3 new product families; 2 spawned digital labs (kid's accounts, affiliates).",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "2 months. Validated 3 new product families; 2 spawned digital labs (kid's accounts, affiliates)."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "50bd984b-233d-4d19-b410-3ca6659a9bec",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "a733c1b6-8196-41da-b6d0-25016409ab10",
+        "text": "3 months. Upsell-hooks digital lab; conversion lifted from 3% to 5% across branch, web, mobile.",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "3 months. Upsell-hooks digital lab; conversion lifted from 3% to 5% across branch, web, mobile."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "725c9579-1300-442b-ad99-fd7889985b19",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "b8d1afab-3b83-4405-8499-46b957b0752b",
+        "text": "12 weeks (current). Upskilling, 4x feature-to-market, customer satisfaction via proactive support.",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "12 weeks (current). Upskilling, 4x feature-to-market, customer satisfaction via proactive support."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "6891eb7e-35d0-4099-a61f-6c1b56c0f8e8",
+      "index": 1,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "3af13709-e3f2-4529-9acc-8106e238f6c0": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "lucide:Pickaxe",
+      "iconAlign": "center",
+      "iconSize": 48,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "93308f26-a657-428c-959c-53181de3591f": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 25,
+      "iconEnclosure": "outlined",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "icon": "lucide:ArrowRight",
+      "fontUnderlined": false
+    },
+    "41bb1002-675a-44ee-8915-530b38a45e11": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "atlas:CornSeeds",
+      "iconAlign": "center",
+      "iconSize": 48,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "7490f4b9-ec83-44e5-a734-afe1649379dd": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 25,
+      "iconEnclosure": "outlined",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "icon": "lucide:ArrowRight",
+      "fontUnderlined": false
+    },
+    "d7aba1e3-f7de-44a7-b897-df0540a3b29a": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "atlas:HandHoldingSeedling",
+      "iconAlign": "center",
+      "iconSize": 48,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "39fd3ab7-5ea3-4b2b-a8bb-8ad0d73ae8c6": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "lucide:ArrowRight",
+      "iconAlign": "center",
+      "iconSize": 25,
+      "iconEnclosure": "outlined",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "9ca97d1f-b3be-450f-90d8-ebe82c459869": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "atlas:TreeLeafNature",
+      "iconAlign": "center",
+      "iconSize": 48,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "8efa86ff-994a-4578-8bec-95c0aae0d7e0": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "fontUnderlined": false
+    },
+    "0b282437-48f1-4517-ad48-7a19c0ce2fa6": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "cb0a012e-0903-4293-81f7-724bf2bd6cb4": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "fontUnderlined": false
+    },
+    "50bd984b-233d-4d19-b410-3ca6659a9bec": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "a733c1b6-8196-41da-b6d0-25016409ab10": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "fontUnderlined": false
+    },
+    "725c9579-1300-442b-ad99-fd7889985b19": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "b8d1afab-3b83-4405-8499-46b957b0752b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent",
+      "transparent",
+      "transparent",
+      "transparent"
+    ],
+    "rowColors": []
+  },
+  "merged": [
+    {
+      "cell": {
+        "id": "93308f26-a657-428c-959c-53181de3591f",
+        "x": 0,
+        "y": 1
+      },
+      "length": 1,
+      "dir": "down"
+    },
+    {
+      "cell": {
+        "id": "7490f4b9-ec83-44e5-a734-afe1649379dd",
+        "x": 0,
+        "y": 3
+      },
+      "length": 1,
+      "dir": "down"
+    },
+    {
+      "cell": {
+        "id": "39fd3ab7-5ea3-4b2b-a8bb-8ad0d73ae8c6",
+        "x": 0,
+        "y": 5
+      },
+      "length": 1,
+      "dir": "down"
+    }
+  ]
+}

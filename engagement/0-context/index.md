@@ -13,10 +13,11 @@ The client is one of the key player in EMEA region's consumer lending field, own
 ## Previous engagement history
 
 We already worked with this client for 2 years over 3 major engagements:
-
 1. Agile transformation, 6 months, built 3 new digital labs from scratch and launched the new mobile store experience in 3 countries, captured ~50 million EUR revenue over a single quarter on total cost of 15 million EUR.
 2. Break-out business analysis, 2 months, where we partnered to ideate and validate feasiblity of 3 new product families to be introduced in the mass consumer segment with 2 of them spawning new digital labs owning delivery (kid's accounts with debit cards and affiliate products).
 3. Advanced analytics, 3 months, created a new digital lab focusing solely on customized upsell hooks to existing customers on all sales channels (branch, web, mobile) and increased a 3% conversion rate to 5% after one additional month of fine-tuning the model.
+
+[$Gridd](./assets/engagement-history.gridd.json)
 
 ## Current challenges
 
