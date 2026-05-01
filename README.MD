@@ -16,7 +16,15 @@ Research output flows into the Synthesis. Synthesis output flows into the Presen
 
 ## Implementation
 
+0. **Context**: the engagement onboarding materials, client context, team norms and the main storyline with tracks.
 1. **Research**: a collection of data files easy to process by code and presenters. It can contain markdowns, mdx and csv files. Images, screenshots, even draw.io PNG files can be put here.
 2. **Synthesis**: this step evaluates or even directs the research steps by defining the hypothesis, the MECE breakdowns and the overarching storyline. It can contain mdx files mostly. Additionally asset files for Gridd tables (*.gridd.json), image assets and further diagrams defined inside the mdx files acceptable.
 3. **Presentation**: cutting the synthesis together into a Docusaurus page structure, enhanced visual communication with Mermaid, Rechart and Gridd embedded diagrams, charts and tables.
 
+### Tech stack
+
+In Presentation folder, it is:
+- a Docusaurus project, Typescript,
+- Mermaid enabled in the Docusaurus,
+- adding Gridd, Rechart and D3 support by enabling @gridd/docusaurus-visuals-plugin (from https://www.npmjs.com/package/@gridd/docusaurus-visuals-plugin) and
+- symlinking engagement folder to replace the docusaurus docs folder.

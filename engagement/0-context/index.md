@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+---
+
 # EMEA International Generic Bank (IGB)
 
 The client is one of the key player in EMEA region's consumer lending field, owning almost 25% of market share. Lately competitors started to catch up with their digital presence and pumping out features faster than our client. To regain dominance in the digital lending space, our client embarks on a new phase of digital transformation with the key aims:

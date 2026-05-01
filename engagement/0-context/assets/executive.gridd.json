@@ -1,0 +1,969 @@
+{
+  "cols": [
+    0.9752388859135607, 0.9752388859135607, 0.9752388859135607,
+    0.9752388859135607, 0.9752388859135607, 0.9752388859135607,
+    0.9752388859135607, 0.9752388859135607, 0.9752388859135607
+  ],
+  "rows": [0.7010869565217391, 1.0190217391304348, 1.279891304347826],
+  "cells": [
+    [
+      {
+        "id": "05f3862c-589c-4fbd-bba1-d3c46d416ea4",
+        "text": "Protect IGB's 25% digital market share and ~5M EUR profit through three parallel transformation avenues",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "Protect IGB's 25% digital market share and ~5M EUR profit through three parallel transformation avenues"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      { "id": "7b25a210-1b83-44af-acc0-d623b727b7c6", "text": "" },
+      { "id": "d94dcb98-a556-4f54-a51f-fa9ca17ce0bc", "text": "" },
+      { "id": "58d2e046-4a53-4377-8f82-f004e1639118", "text": "" },
+      { "id": "06ca9614-7247-40ef-8598-993ad415111e", "text": "" },
+      { "id": "b92408d8-27ae-47d8-9117-e0de92b9ba0a", "text": "" },
+      { "id": "709614e9-4a88-4683-aba8-182af25c7e14", "text": "" },
+      { "id": "4bb5142a-dbb5-4b61-acfe-e06d3fd9f326", "text": "" },
+      {
+        "id": "0e1311e1-29d7-45f5-8394-ad66b3ac1836",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [{ "type": "paragraph", "attrs": { "textAlign": null } }]
+        }
+      }
+    ],
+    [
+      {
+        "id": "41bb1002-675a-44ee-8915-530b38a45e11",
+        "text": "Upskill the digital workforce",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": "center" },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    { "type": "bold" }
+                  ],
+                  "text": "Upskill the digital workforce"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      { "id": "d7aba1e3-f7de-44a7-b897-df0540a3b29a", "text": "" },
+      {
+        "id": "9ca97d1f-b3be-450f-90d8-ebe82c459869",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [{ "type": "paragraph", "attrs": { "textAlign": null } }]
+        }
+      },
+      {
+        "id": "64b1ec47-8e65-40c8-b7b0-1aa5d32657ff",
+        "text": "Cut feature-to-market by 4x",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": "center" },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    { "type": "bold" }
+                  ],
+                  "text": "Cut feature-to-market by 4x"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      { "id": "41aa81e4-fe29-4342-ba99-8dfdf247bbf2", "text": "" },
+      {
+        "id": "b4b12a82-04cf-4ca5-a357-d19ad9d625f8",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [{ "type": "paragraph", "attrs": { "textAlign": null } }]
+        }
+      },
+      {
+        "id": "f31a575c-e3e1-4d81-a512-2c6c3a3d3b44",
+        "text": "Lift CSAT with proactive support",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": "center" },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    { "type": "bold" }
+                  ],
+                  "text": "Lift CSAT with proactive support"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      { "id": "c583b389-5311-4b83-bb34-16fcef4426b7", "text": "" },
+      {
+        "id": "84822373-91d7-4bca-9aeb-c4ecc0f69081",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [{ "type": "paragraph", "attrs": { "textAlign": null } }]
+        }
+      }
+    ],
+    [
+      {
+        "id": "cb0a012e-0903-4293-81f7-724bf2bd6cb4",
+        "text": "Compare upskill vs experienced-hire ROI over 5y",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "Compare upskill vs experienced-hire ROI over 5y"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "a733c1b6-8196-41da-b6d0-25016409ab10",
+        "text": "Codify internal knowledge: learning lunches, pre/post-mortems",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Codify internal knowledge: learning lunches, pre/post-mortems"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "b8d1afab-3b83-4405-8499-46b957b0752b",
+        "text": "Prioritize initiatives by impact-vs-cost",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Prioritize initiatives by impact-vs-cost"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "703b9463-5d5a-4a34-9e97-9c7b3ab0008c",
+        "text": "Benchmark deployment cadence vs peers",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Benchmark deployment cadence vs peers"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "39c3bed0-430a-420d-b1ec-a6ff9e216ce1",
+        "text": "Align on a clear Tech North Star",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Align on a clear Tech North Star"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "cc575990-b680-46ae-9dac-a49b7aa78f64",
+        "text": "Remove dependencies blocking weekly releases",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Remove dependencies blocking weekly releases"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "e6c4faf0-ade7-4d38-9f32-132ec4eb653d",
+        "text": "Map lagging & leading CSAT indicators",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Map lagging & leading CSAT indicators"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "b0923840-1aea-4ad3-9df9-496b96c3796a",
+        "text": "Identify highest-impact levers",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Identify highest-impact levers"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "78cfc984-02e5-41fd-ac97-e6f043d3cb6d",
+        "text": "Eliminate critical errors on digital surfaces",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": { "textAlign": null },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Eliminate critical errors on digital surfaces"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [],
+  "cellStyles": {
+    "1d92966c-d34d-4e4e-887a-5d70101a6a9c": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "background": "transparent",
+      "backgroundName": "none",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "05f3862c-589c-4fbd-bba1-d3c46d416ea4": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Header",
+      "colorName": "text2",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#00564b",
+        "colorName": "accent1",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "7b25a210-1b83-44af-acc0-d623b727b7c6": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "d94dcb98-a556-4f54-a51f-fa9ca17ce0bc": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "58d2e046-4a53-4377-8f82-f004e1639118": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "06ca9614-7247-40ef-8598-993ad415111e": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "b92408d8-27ae-47d8-9117-e0de92b9ba0a": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "709614e9-4a88-4683-aba8-182af25c7e14": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "4bb5142a-dbb5-4b61-acfe-e06d3fd9f326": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "0e1311e1-29d7-45f5-8394-ad66b3ac1836": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "3af13709-e3f2-4529-9acc-8106e238f6c0": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "background": "transparent",
+      "backgroundName": "none",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "41bb1002-675a-44ee-8915-530b38a45e11": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#17de88",
+        "colorName": "secondary1",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "d7aba1e3-f7de-44a7-b897-df0540a3b29a": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "color": "#17de88", "colorName": "secondary1", "margin": 5 },
+      "fontUnderlined": false
+    },
+    "9ca97d1f-b3be-450f-90d8-ebe82c459869": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "color": "#17de88", "colorName": "secondary1", "margin": 5 },
+      "fontUnderlined": false
+    },
+    "64b1ec47-8e65-40c8-b7b0-1aa5d32657ff": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#17de88",
+        "colorName": "secondary1",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "41aa81e4-fe29-4342-ba99-8dfdf247bbf2": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "color": "#17de88", "colorName": "secondary1", "margin": 5 },
+      "fontUnderlined": false
+    },
+    "b4b12a82-04cf-4ca5-a357-d19ad9d625f8": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "color": "#17de88", "colorName": "secondary1", "margin": 5 },
+      "fontUnderlined": false
+    },
+    "f31a575c-e3e1-4d81-a512-2c6c3a3d3b44": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#17de88",
+        "colorName": "secondary1",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "c583b389-5311-4b83-bb34-16fcef4426b7": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "84822373-91d7-4bca-9aeb-c4ecc0f69081": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "shape": { "margin": 5 },
+      "fontUnderlined": false
+    },
+    "8efa86ff-994a-4578-8bec-95c0aae0d7e0": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "background": "transparent",
+      "backgroundName": "none",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "cb0a012e-0903-4293-81f7-724bf2bd6cb4": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "a733c1b6-8196-41da-b6d0-25016409ab10": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "b8d1afab-3b83-4405-8499-46b957b0752b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "703b9463-5d5a-4a34-9e97-9c7b3ab0008c": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "39c3bed0-430a-420d-b1ec-a6ff9e216ce1": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "cc575990-b680-46ae-9dac-a49b7aa78f64": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "e6c4faf0-ade7-4d38-9f32-132ec4eb653d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "b0923840-1aea-4ad3-9df9-496b96c3796a": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    },
+    "78cfc984-02e5-41fd-ac97-e6f043d3cb6d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "SmallBody",
+      "colorName": "text",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e2f2e6",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#00564b",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "zIndex": 1,
+        "margin": 5
+      },
+      "fontUnderlined": false
+    }
+  },
+  "merged": [
+    { "cell": { "x": 1, "y": 0 }, "length": 2, "dir": "right" },
+    { "cell": { "x": 1, "y": 3 }, "length": 2, "dir": "right" },
+    { "cell": { "x": 1, "y": 6 }, "length": 2, "dir": "right" },
+    { "cell": { "x": 0, "y": 0 }, "length": 8, "dir": "right" }
+  ]
+}

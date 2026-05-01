@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Our Way of Working
 
 ## Team roles
@@ -14,7 +18,7 @@ Project:
 - **[week 0] Kick-off**: client context, goals and the tracks we are to explore during the engagement.
 - **[week 0] Team learning**: each team member is familier with the working norms, we set our team norms and we get to understand each member's development goals.
 - **[12 weeks] Engagement**: weekly and monthly cadence detailed below.
-- **[week 12] Hand-**over**: after final steerco, we wrap up by creating the hand-over docs and record in both client and Firm secure systems.
+- **[week 12] Hand-over**: after final steerco, we wrap up by creating the hand-over docs and record in both client and Firm secure systems.
 
 > _**Warning**_: this project repository contains all engagement document, including non-client facing, non-shareable information such as our team's internal development goals! Take extra care to clean sensitive info out before hand-over but file the entire repository in the Firm's side as is!
 

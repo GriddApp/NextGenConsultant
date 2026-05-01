@@ -1,4 +1,4 @@
-# Customer satisfaction track - research
+# Customer satisfaction track
 
 How do we measure currently customer satisfaction? What are the lagging and leading indicators of it changing?
 
