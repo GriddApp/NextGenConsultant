@@ -1,26 +1,33 @@
 # syntax=docker/dockerfile:1
+#
+# Build context must be the project root (one folder up from this Dockerfile),
+# because the Docusaurus config in hand-over/ references ../engagement. Build
+# from the repo root with:
+#
+#     docker build -f hand-over/Dockerfile .
+#
+# The resulting image places the Docusaurus project at /opt/docusaurus and the
+# engagement content at /opt/engagement, so `path: "../engagement"` resolves
+# inside the container.
 
 # Stage 1: Base image.
-## Start with a base image containing NodeJS so we can build Docusaurus.
 FROM node:lts AS base
-## Disable colour output from yarn to make logs easier to read.
 ENV FORCE_COLOR=0
-## Enable corepack.
 RUN corepack enable
-## Set the working directory to `/opt/docusaurus`.
 WORKDIR /opt/docusaurus
 
-# Stage 2b: Production build mode.
+# Stage 2: Production build.
 FROM base AS prod
-## Set the working directory to `/opt/docusaurus`.
 WORKDIR /opt/docusaurus
-## Copy over the source code.
-COPY . /opt/docusaurus/
-## Install dependencies with `--immutable` to ensure reproducibility.
+## Docusaurus project.
+COPY hand-over/ /opt/docusaurus/
+## Engagement content (Docusaurus reads it via ../engagement).
+COPY engagement/ /opt/engagement/
+## Install dependencies and build.
 RUN npm ci
-## Build the static site.
 RUN npm run build
 
+# Stage 3: Serve with nginx.
 FROM nginx:stable-alpine3.23 AS serve
 COPY --from=prod /opt/docusaurus/build /usr/share/nginx/html
 COPY --from=prod /opt/docusaurus/default.conf /etc/nginx/conf.d/default.conf
@@ -28,9 +35,7 @@ COPY --from=prod /opt/docusaurus/.htpasswd /etc/nginx/.htpasswd
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 
-# # Stage 3a: Serve with `docusaurus serve`.
+# # Alternative Stage 3: serve via `docusaurus serve`.
 # FROM prod AS serve
-# ## Expose the port that Docusaurus will run on.
 # EXPOSE 3000
-# ## Run the production server.
 # CMD ["npm", "run", "serve", "--", "--host", "0.0.0.0", "--no-open"]

@@ -97,11 +97,16 @@ const config: Config = {
           position: "left",
           label: "Synthesis",
         },
+        {
+          position: "right",
+          label: "Blog",
+          to: "blog"
+        }
       ],
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} DeckAI Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DeckAI Inc. Built with Docusaurus. Disclaimer: content is fictional, not a real engagement done by any consultant.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -23,3 +23,16 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+sandor:
+  name: Sandor Nagy
+  title: CTO of Gridd/DeckAI, CEO of AerelonTech
+  url: https://griddtemplates.com
+  image_url: https://avatars.githubusercontent.com/u/2974128?v=4
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sandor-articles'
+  socials:
+    linkedin: sandor-nagy-alex
+    github: nagysa1313
+    newsletter: https://the-gamer-cxo.aerelontech.hu/
