@@ -19,7 +19,7 @@ const config: Config = {
     v4: true,
   },
 
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://demo.griddapp.com",
   baseUrl: "/",
 
   onBrokenLinks: "throw",
@@ -101,7 +101,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} New Age Consultant Demo. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} DeckAI Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

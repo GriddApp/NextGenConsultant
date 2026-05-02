@@ -1,58 +1,64 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
-type FeatureItem = {
+type Step = {
+  ordinal: string;
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  href: string;
   description: ReactNode;
 };
 
-const FeatureList: FeatureItem[] = [
+const STEPS: Step[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    ordinal: '0',
+    title: 'Context',
+    href: '/docs/context/',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Engagement onboarding, client background, way-of-working, and the
+        storyline that frames everything.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    ordinal: '1',
+    title: 'Research',
+    href: '/docs/research/',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Data gathered into the engagement — markdown notes, CSVs, screenshots,
+        and diagrams the team and the code can both read.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    ordinal: '2',
+    title: 'Synthesis',
+    href: '/docs/synthesis/',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Hypotheses, MECE breakdowns, and the storyline being shaped from the
+        research toward a presentable point of view.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function StepCard({ordinal, title, href, description}: Step) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
-    </div>
+    <Link to={href} className={clsx('col col--4', styles.cardLink)}>
+      <article className={styles.card}>
+        <span className={styles.ordinal}>{ordinal}</span>
+        <Heading as="h3" className={styles.cardTitle}>
+          {title}
+        </Heading>
+        <p className={styles.cardBody}>{description}</p>
+        <span className={styles.cardCta}>Open {title.toLowerCase()} →</span>
+      </article>
+    </Link>
   );
 }
 
@@ -60,9 +66,18 @@ export default function HomepageFeatures(): ReactNode {
   return (
     <section className={styles.features}>
       <div className="container">
+        <p className={styles.sectionEyebrow}>How an engagement is structured</p>
+        <Heading as="h2" className={styles.sectionTitle}>
+          Three iterative steps, one repository
+        </Heading>
+        <p className={styles.sectionLead}>
+          Research output flows into synthesis. Synthesis output flows into the
+          presentation you are reading right now. Every claim links back to the
+          underlying data.
+        </p>
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+          {STEPS.map((step) => (
+            <StepCard key={step.ordinal} {...step} />
           ))}
         </div>
       </div>

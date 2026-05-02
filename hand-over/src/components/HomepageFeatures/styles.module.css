@@ -1,11 +1,119 @@
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+  padding: 4rem 0 5rem;
+  background: var(--gridd-secondary2);
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+[data-theme='dark'] .features {
+  background: var(--ifm-background-surface-color);
+}
+
+.sectionEyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--gridd-accent2);
+}
+
+.sectionTitle {
+  margin: 0.25rem 0 0.75rem;
+  color: var(--gridd-accent1);
+}
+
+[data-theme='dark'] .sectionTitle {
+  color: var(--gridd-secondary1);
+}
+
+.sectionLead {
+  max-width: 56rem;
+  margin: 0 0 2.5rem;
+  color: var(--gridd-text);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+[data-theme='dark'] .sectionLead {
+  color: var(--gridd-shading1);
+}
+
+.cardLink {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.cardLink:hover {
+  text-decoration: none;
+}
+
+.card {
+  position: relative;
+  height: 100%;
+  padding: 1.5rem 1.5rem 1.75rem;
+  background: var(--gridd-background);
+  border: 1px solid var(--gridd-shading1);
+  border-radius: 12px;
+  transition: transform 120ms ease, border-color 120ms ease, box-shadow 120ms ease;
+}
+
+[data-theme='dark'] .card {
+  background: var(--gridd-background2);
+  border-color: var(--gridd-accent1);
+}
+
+.cardLink:hover .card {
+  border-color: var(--gridd-accent2);
+  box-shadow: 0 8px 24px rgba(0, 156, 88, 0.12);
+  transform: translateY(-2px);
+}
+
+.ordinal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background: var(--gridd-accent1);
+  color: var(--gridd-text2);
+  font-family: 'Calisto MT', Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+[data-theme='dark'] .ordinal {
+  background: var(--gridd-secondary1);
+  color: var(--gridd-background2);
+}
+
+.cardTitle {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+  color: var(--gridd-accent1);
+}
+
+[data-theme='dark'] .cardTitle {
+  color: var(--gridd-secondary1);
+}
+
+.cardBody {
+  margin: 0 0 1rem;
+  color: var(--gridd-text);
+  line-height: 1.55;
+}
+
+[data-theme='dark'] .cardBody {
+  color: var(--gridd-shading1);
+}
+
+.cardCta {
+  display: inline-block;
+  font-weight: 600;
+  color: var(--gridd-accent2);
+}
+
+[data-theme='dark'] .cardCta {
+  color: var(--gridd-secondary1);
 }
