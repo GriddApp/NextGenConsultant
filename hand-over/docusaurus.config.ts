@@ -31,6 +31,10 @@ const config: Config = {
   themes: ["@docusaurus/theme-mermaid"],
 
   plugins: ["@gridd/docusaurus-visuals-plugin"],
+  customFields: {
+    griddEmbedBaseUrl:
+      "https://wonderful-smoke-03be4ab0f.5.azurestaticapps.net/embeddable.html",
+  },
 
   i18n: {
     defaultLocale: "en",
@@ -100,8 +104,8 @@ const config: Config = {
         {
           position: "right",
           label: "Blog",
-          to: "blog"
-        }
+          to: "blog",
+        },
       ],
     },
     footer: {
