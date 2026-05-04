@@ -1,6 +1,6 @@
 ---
 slug: welcome-to-the-demo
-title: Welcome to the New Age Consultant Demo
+title: Welcome to the Next-Gen Consultant demo
 authors: [sandor]
 tags: []
 ---

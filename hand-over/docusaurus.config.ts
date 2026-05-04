@@ -11,7 +11,7 @@ const GRIDD_COMMON_STYLE = "/style/style.gridd.json";
 const D3_SPEC_BASE_URL = "/style/d3";
 
 const config: Config = {
-  title: "New Age Consultant Demo",
+  title: "Next-Gen Consultant",
   tagline: "Research → Synthesis → Presentation",
   favicon: "img/favicon.ico",
 
@@ -77,9 +77,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: "New Age Consultant Demo",
+      title: "Next-Gen Consultant",
       logo: {
-        alt: "New Age Consultant Demo",
+        alt: "Next-Gen Consultant",
         src: "img/logo.svg",
       },
       items: [

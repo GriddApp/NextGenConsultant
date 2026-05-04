@@ -1,4 +1,4 @@
-# New Age Consultant Demo
+# Next-Gen Consultant
 
 This is the new age for consultants. One without PPTX and the decades of obsolete baggage the industry carries over every day.
 
