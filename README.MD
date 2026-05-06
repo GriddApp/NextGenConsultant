@@ -37,12 +37,26 @@ You find beyond the /gridd-fill skill a couple of more free skills we created to
 
 [ ] TODO: add example prompts for each skill
 
+## Tech stack
+
+We chose Docusaurus as a starting point due to its versatile nature. It already processes the Markdown files extremely well and adding a few visualization plugins enable us to replace an entire management consultant project with its decks for low to now effort.
+
+[Mermaid](https://mermaid.js.org/intro/): wide range of diagrams and charts now can be described right in your Markdown files. Use VS Code or the built site, you can add plenty of flowcharts, mindmaps, even kanban, architecture of C4 diagrams to your documents! (This project turns on as a base theme the Mermaid support officially from Docusaurus.)
+
+[Gridd](https://www.griddtemplates.com/learn): our table editor web-component wrapped into a plugin able to process json files and when you are on local editing, you can even modify and save directly. This way, you don't have to just rely on the limited markdown tables and the text based editing!
+
+[ReChart](https://recharts.github.io/): wrapped charting library allowing you to present any csv files as a few starting charts right into the documents! This feature to be evolved a lot, mainly to connect the styling right to the Gridd's and the CSS files.
+
+[experimental] [D3](https://d3js.org/what-is-d3): a large scale data visualization library for the more unique presentation needs. Plenty of future improvements planned.
+
 ## Contribution
 
 If you like this project and want to help improve it, you can do it multiple ways:
 - open issue for a fix or feature you desire but have no way to fix yourself
 - open a pull-request with a problem statement and a description of the fix or feature you want to contribute with and we will review it
 - open any discussion to ask for help.
+
+Let's redefine together the future of consulting engagements! It starts with the deliverable left behind and the satisfaction and impact your client experience due to how pleasant to use the work you left behind!
 
 ## Gridd Template collection
 
