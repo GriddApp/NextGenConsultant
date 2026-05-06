@@ -1,0 +1,441 @@
+{
+  "cols": [
+    1.6286429520967511,
+    1.1601179370038217,
+    1.1601179370038217,
+    1.717691501474699
+  ],
+  "rows": [
+    1.3621794871794872,
+    1.4775641025641026
+  ],
+  "cells": [
+    [
+      {
+        "id": "78330e31-fef2-4af9-ae56-21b374a2e72f",
+        "text": "[Comments or consideration here. Lorem ipsum dolor sit amet, erat malesuada pulvinar phasellus condimentum velit, elementum suscipit tincidunt ullamcorper, nam erat lorem tempor vel id orci, ullamcorper vel, imperdiet sedvarius]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[Comments or consideration here. Lorem ipsum dolor sit amet, erat malesuada pulvinar phasellus condimentum velit, elementum suscipit tincidunt ullamcorper, nam erat lorem tempor vel id orci, ullamcorper vel, imperdiet sedvarius]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "8128b17f-1735-495f-aa81-15c65106bc4e",
+        "text": "[Strenghts]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "right"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "13.5pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Strenghts]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7b294ae8-3b40-4ec1-a8a7-854e008af531",
+        "text": "[Weaknesses]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "13.5pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Weaknesses]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ee07d361-f8cc-4a63-9324-5ef2a2cc6a3a",
+        "text": "[Comments or consideration here. Lorem ipsum dolor sit amet, erat malesuada pulvinar phasellus condimentum velit, elementum suscipit tincidunt ullamcorper, nam erat lorem tempor vel id orci, ullamcorper vel, imperdiet sedvarius]"
+      }
+    ],
+    [
+      {
+        "id": "ff4067bf-46f5-4eb0-92af-714d13e3cacb",
+        "text": "[Comments or consideration here. Lorem ipsum dolor sit amet, erat malesuada pulvinar phasellus condimentum velit, elementum suscipit tincidunt ullamcorper, nam erat lorem tempor vel id orci, ullamcorper vel, imperdiet sedvarius]"
+      },
+      {
+        "id": "53c399df-a2dc-483a-9161-eb32fb78b7cd",
+        "text": "[Threaths]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "right"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "13.5pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Threaths]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "6a8bfbb2-7c68-4afb-b775-27dfa99604da",
+        "text": "[Opportunities]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "13.5pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Opportunities]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "d3a85623-d841-4227-b0cb-4044c78e8207",
+        "text": "[Comments or consideration here. Lorem ipsum dolor sit amet, erat malesuada pulvinar phasellus condimentum velit, elementum suscipit tincidunt ullamcorper, nam erat lorem tempor vel id orci, ullamcorper vel, imperdiet sedvarius]"
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "674b125f-68e5-4196-b4e8-285ca3e2ec47",
+      "index": 2,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "700398ba-3f10-4b4f-9514-4af7c1b08df3",
+      "index": 1,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "78330e31-fef2-4af9-ae56-21b374a2e72f": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "8128b17f-1735-495f-aa81-15c65106bc4e": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Header",
+      "colorName": "text2",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "rotation": 0,
+        "flipX": true,
+        "radius": 25,
+        "margin": 10,
+        "marginPerc": 0
+      },
+      "fontSizeAdd": 2,
+      "padding": 10,
+      "fontUnderlined": false,
+      "isInverted": true,
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background",
+      "icon": "atlas:MuscleGain"
+    },
+    "7b294ae8-3b40-4ec1-a8a7-854e008af531": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Header",
+      "colorName": "text2",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#4C05FF",
+        "colorName": "accent2",
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "rotation": 0,
+        "flipX": true,
+        "radius": 25,
+        "margin": 10,
+        "marginPerc": 0
+      },
+      "fontSizeAdd": 2,
+      "padding": 10,
+      "fontUnderlined": false,
+      "isInverted": true,
+      "icon": "atlas:Bandages",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background"
+    },
+    "ee07d361-f8cc-4a63-9324-5ef2a2cc6a3a": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "ff4067bf-46f5-4eb0-92af-714d13e3cacb": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "right",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "53c399df-a2dc-483a-9161-eb32fb78b7cd": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Header",
+      "colorName": "text2",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#5Da8f9",
+        "colorName": "secondary1",
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "rotation": 0,
+        "flipX": true,
+        "radius": 25,
+        "margin": 10,
+        "marginPerc": 0
+      },
+      "fontSizeAdd": 2,
+      "padding": 10,
+      "fontUnderlined": false,
+      "isInverted": true,
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background",
+      "icon": "lucide:AlertTriangle"
+    },
+    "6a8bfbb2-7c68-4afb-b775-27dfa99604da": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e8f0fa",
+        "colorName": "secondary2",
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "rotation": 0,
+        "flipX": true,
+        "radius": 25,
+        "margin": 10,
+        "marginPerc": 0
+      },
+      "fontSizeAdd": 2,
+      "padding": 10,
+      "fontUnderlined": false,
+      "isInverted": false,
+      "icon": "atlas:ArrowUpGraphIncrease",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#001866",
+      "iconColorName": "accent1"
+    },
+    "d3a85623-d841-4227-b0cb-4044c78e8207": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent",
+      "transparent"
+    ],
+    "rowColors": [
+      "transparent"
+    ]
+  },
+  "merged": []
+}

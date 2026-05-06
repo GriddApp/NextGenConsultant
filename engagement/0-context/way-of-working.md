@@ -15,24 +15,24 @@ sidebar_position: 2
 ## Cadence
 
 Project:
-- **[week 0] Kick-off**: client context, goals and the tracks we are to explore during the engagement.
-- **[week 0] Team learning**: each team member is familier with the working norms, we set our team norms and we get to understand each member's development goals.
-- **[12 weeks] Engagement**: weekly and monthly cadence detailed below.
-- **[week 12] Hand-over**: after final steerco, we wrap up by creating the hand-over docs and record in both client and Firm secure systems.
+- **[week 0] Kick-off** — align on client context, goals, and the three tracks the engagement will explore.
+- **[week 0] Team learning** — onboard the team to working norms, set team norms, surface each member's development goals.
+- **[weeks 1–11] Engagement** — run the weekly and monthly cadence detailed below.
+- **[week 12] Hand-over** — after final steerco, produce the hand-over docs and file them in both client and Firm secure systems.
 
-> _**Warning**_: this project repository contains all engagement document, including non-client facing, non-shareable information such as our team's internal development goals! Take extra care to clean sensitive info out before hand-over but file the entire repository in the Firm's side as is!
+> _**Warning**_: this project repository contains all engagement documents, including non-client-facing, non-shareable information such as our team's internal development goals. Take extra care to clean sensitive info out before hand-over, but file the entire repository on the Firm's side as is.
 
 Weekly:
-- Sprint plan:
-- Problem solving 1:
-- Sponsor check-in:
-- Problem solving 2:
-- Sprint review:
-- [bi-weekly] Client demo:
+- **Mon — Sprint plan** — set the week's priorities and assignments across the three tracks.
+- **Tue — Problem solving 1** — work through one open question with the partner.
+- **Wed — Sponsor check-in** — align on progress, escalate blockers with the client sponsor.
+- **Thu — Problem solving 2** — deep-dive on a second open question with the partner.
+- **Fri — Sprint review** — close the week, review outputs, capture decisions.
+- **[bi-weekly] Client demo** — show working artifacts to the wider client team.
 
 Monthly:
-- Steering committee:
-- Sponsor round-table:
+- **Steering committee** — present progress, decisions, and risks to the steering body; secure direction.
+- **Sponsor round-table** — informal sync with the sponsor on direction, politics, and signal-checking.
 
 ## Team norms
 

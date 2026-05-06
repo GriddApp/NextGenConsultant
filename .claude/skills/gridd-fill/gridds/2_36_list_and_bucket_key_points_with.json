@@ -1,0 +1,823 @@
+{
+  "cols": [
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "rows": [
+    0.38405959209892493,
+    1.621769591607078
+  ],
+  "cells": [
+    [
+      {
+        "id": "11b97228-f07b-43e7-89eb-da56ae480543",
+        "text": "[Bucket name]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(255, 255, 255)",
+                        "fontFamily": "Arial",
+                        "fontSize": "11.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Bucket name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "195f3ea8-0087-492d-8e1b-caad73e1b4a3",
+        "text": "[Bucket name]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Bucket name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "a4d7dfef-418f-4ee7-bb13-fa12b6f0903b",
+        "text": "[Bucket name]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Bucket name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7ad662c3-c745-4aef-9e84-39e1a449b53a",
+        "text": "[Bucket name]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Bucket name]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "763dcf03-61bb-4004-b2ae-e42f533be5d0",
+        "text": "\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "afc34737-8a40-48b7-b6a6-4dd9249cd4f3",
+        "text": "\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "01c9fb57-4e81-46c8-ba20-383db4f9b256",
+        "text": "\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "79260a3d-70e1-47ed-83b6-275720bcd0f6",
+        "text": "\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n\n[Key items or takeaways]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Key items or takeaways]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "86d18410-745b-473b-b025-070f9cd411d6",
+      "index": 1,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 0,
+      "to": null,
+      "preset": "level3"
+    },
+    {
+      "id": "9769ceb0-8735-4b94-b323-98b0da191319",
+      "index": 1,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "2ded6842-b3c1-44fb-ae67-71645174c709",
+      "index": 2,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "8638aca7-6863-422f-9d86-867c155134da",
+      "index": 3,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "c741c0f7-3426-4a58-a020-036d2fae969b",
+      "index": 4,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "75beedbd-7a2c-402a-b201-539c273163ce",
+      "index": 0,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "a71e0ae1-d8f7-452a-a3b8-84ca9cf89c04",
+      "index": 2,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "49ee62d7-6cc1-4506-8552-76395a984264",
+      "index": 0,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "11b97228-f07b-43e7-89eb-da56ae480543": {
+      "background": "#001866",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "backgroundName": "accent1",
+      "preset": "Header",
+      "icon": "atlas:CrosshairsTargetDollar",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "195f3ea8-0087-492d-8e1b-caad73e1b4a3": {
+      "background": "#4C05FF",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "backgroundName": "accent2",
+      "preset": "Header",
+      "icon": "atlas:PersonReceiveArrows",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "a4d7dfef-418f-4ee7-bb13-fa12b6f0903b": {
+      "background": "#5Da8f9",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "backgroundName": "secondary1",
+      "icon": "phosphor:BookBookmarkIcon",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background",
+      "colorName": "text2",
+      "preset": "Header",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "7ad662c3-c745-4aef-9e84-39e1a449b53a": {
+      "background": "#4d5d94",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "backgroundName": "color_1",
+      "preset": "Header",
+      "icon": "phosphor:FlowArrowIcon",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#ffffff",
+      "iconColorName": "background",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "763dcf03-61bb-4004-b2ae-e42f533be5d0": {
+      "background": "#e8f0fa",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "backgroundName": "secondary2",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "afc34737-8a40-48b7-b6a6-4dd9249cd4f3": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "background": "#eAeaea",
+      "backgroundName": "shading1",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "01c9fb57-4e81-46c8-ba20-383db4f9b256": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "79260a3d-70e1-47ed-83b6-275720bcd0f6": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "background": "#eAeaea",
+      "backgroundName": "shading1",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [],
+    "rowColors": []
+  },
+  "merged": []
+}

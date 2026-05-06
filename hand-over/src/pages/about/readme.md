@@ -29,20 +29,10 @@ npm i
 npm start
 ```
 
-> Don't forget to commit and push often! Your new repository can act as your history and proof of how the engagement was delivered to your client!
 
-## Claude Skills
-
-You find beyond the /gridd-fill skill a couple of more free skills we created to make your deck making better and they can be used from Claude Code, Claude for PPT or any other Claude interface. Originally aimed at PPTX presentations, they contain significant help in any format, including in this Markdown text-based engagement!
-
-[ ] TODO: add example prompts for each skill
 
 ## Contribution
 
-If you like this project and want to help improve it, you can do it multiple ways:
-- open issue for a fix or feature you desire but have no way to fix yourself
-- open a pull-request with a problem statement and a description of the fix or feature you want to contribute with and we will review it
-- open any discussion to ask for help.
 
 ## Gridd Template collection
 
@@ -50,8 +40,29 @@ In this repository, you find a /gridd-fill skill ready for your use with 30+ tem
 
 We have a 200+ collection of the finest management consulting templates ready for you to use however! Check it out at https://griddtemplates.com
 
-## Contact Us
+## Project structure
 
-Use https://www.griddtemplates.com/contact for any inquires related to our demo, other products.
+As for any engagement's successful team work, we have to set up a few common ground rules:
 
-If you would like our expertise to help set the project up for you, even consult on how to improve your team's effectiveness, reach out to us anytime!
+First of all, we work iteratively over 3 major steps:
+
+1. Research
+2. Synthesis
+3. Presentation
+
+Research output flows into the Synthesis. Synthesis output flows into the Presentation. Presentation can show the underlying data from research to prove the synthesized insights.
+
+## Implementation
+
+0. **Context**: the engagement onboarding materials, client context, team norms and the main storyline with tracks.
+1. **Research**: a collection of data files easy to process by code and presenters. It can contain markdowns, mdx and csv files. Images, screenshots, even draw.io PNG files can be put here.
+2. **Synthesis**: this step evaluates or even directs the research steps by defining the hypothesis, the MECE breakdowns and the overarching storyline. It can contain mdx files mostly. Additionally asset files for Gridd tables (*.gridd.json), image assets and further diagrams defined inside the mdx files acceptable.
+3. **Presentation**: cutting the synthesis together into a Docusaurus page structure, enhanced visual communication with Mermaid, Rechart and Gridd embedded diagrams, charts and tables.
+
+### Tech stack
+
+In Presentation folder, it is:
+- a Docusaurus project, Typescript,
+- Mermaid enabled in the Docusaurus,
+- adding Gridd, Rechart and D3 support by enabling @gridd/docusaurus-visuals-plugin (from https://www.npmjs.com/package/@gridd/docusaurus-visuals-plugin) and
+- symlinking engagement folder to replace the docusaurus docs folder.

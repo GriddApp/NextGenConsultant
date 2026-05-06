@@ -13,7 +13,7 @@ const D3_SPEC_BASE_URL = "/style/d3";
 const config: Config = {
   title: "Next-Gen Consultant",
   tagline: "Research → Synthesis → Presentation",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
 
   future: {
     v4: true,
@@ -76,11 +76,17 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
     navbar: {
       title: "Next-Gen Consultant",
       logo: {
         alt: "Next-Gen Consultant",
-        src: "img/logo.svg",
+        src: "img/favicon.png",
       },
       items: [
         {
@@ -106,6 +112,20 @@ const config: Config = {
           label: "Blog",
           to: "blog",
         },
+        {
+          type: "dropdown",
+          position: "right",
+          label: "About",
+          items: [
+            { label: "README", to: "/about/readme" },
+            { label: "License", to: "/about/license" },
+          ],
+        },
+        {
+          position: "right",
+          label: "GitHub",
+          href: "https://github.com/GriddApp/NextGenConsultant"
+        }
       ],
     },
     footer: {

@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "http://griddapp.com/schemas/gridd.json",
+  "title": "Gridd Table Schema",
+  "description": "One table defined for the Gridd rendering application.",
+  "type": "object",
+  "properties": {
+    "cols": {
+      "description": "Column weights and spacer widths defining how many columns to render.",
+      "type": "array",
+      "items": {
+        "anyOf": [
+          {
+            "description": "Spacers keep a fixed pixel width between columns, e.g. s24 is a 24px wide spacer.",
+            "type": "string",
+            "pattern": "^s.*"
+          },
+          {
+            "description": "Star sizing: '*' means take a share of the remaining space (weight = 1).",
+            "type": "string",
+            "pattern": "^\\*$"
+          },
+          {
+            "description": "Column weight multiplier",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    "rows": {
+      "description": "Row weights and spacer heights defining how many rows to render.",
+      "type": "array",
+      "items": {
+        "anyOf": [
+          {
+            "description": "Spacers keep a fixed pixel height between rows, e.g. s24 is a 24px tall spacer.",
+            "type": "string",
+            "pattern": "^s.*"
+          },
+          {
+            "description": "Star sizing: '*' means take a share of the remaining space (weight = 1).",
+            "type": "string",
+            "pattern": "^\\*$"
+          },
+          {
+            "description": "Row weight multiplier",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    "cells": {
+      "description": "Two dimensional matrix to hold text content for each cell defined by cols and rows. Each cell can have only one style.",
+      "type": "array",
+      "items": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "description": "GUID v4 value to uniquely identify this cell. Used to connect with style descriptions.",
+              "type": "string"
+            },
+            "text": {
+              "description": "Plain multi-line text representation of content.",
+              "type": "string"
+            },
+            "json": {
+              "description": "Rich text representation of the text and bullets contained in the cell for TipTap data structure.",
+              "type": "object"
+            }
+          }
+        }
+      }
+    },
+    "cellStyles": {
+      "description": "Complex object describing each cell's font styling, background, icons and shapes, etc.",
+      "type": "object",
+      "properties": {
+        "{guid}": {
+          "description": "The cell's GUID v4 id value connecting this style exactly to one cell that exists in the cells matrix.",
+          "type": "object",
+          "properties": {
+            "preset": {
+              "description": "One of the six preset names existing in the stylesheet.",
+              "type": "string",
+              "enum": [
+                "Header",
+                "SubHeader",
+                "Body",
+                "Highlight",
+                "SmallBody",
+                "Caption"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "borders": {
+      "description": "Each location can have more than one borders with different styles are described in this array.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "description": "GUID v4 value to uniquely identify border for editing",
+            "type": "string"
+          },
+          "index": {
+            "description": "The slot this border is drawn in",
+            "type": "number"
+          },
+          "isVertical": {
+            "description": "If true, the border is drawn vertically on the given column index.",
+            "type": "boolean"
+          },
+          "from": {
+            "description": "The starting index from the border is drawn",
+            "type": "number"
+          },
+          "to": {
+            "description": "The last index this border is drawn up to, or null to run to the end.",
+            "type": ["number", "null"]
+          },
+          "preset": {
+            "description": "The preset style this border is drawn with known by stylesheet.",
+            "type": "string",
+            "enum": ["level1", "level2", "level3", "level4", "level5"]
+          }
+        }
+      }
+    }
+  },
+  "required": ["cols", "rows", "cells"]
+}
