@@ -49,6 +49,10 @@ We chose Docusaurus as a starting point due to its versatile nature. It already 
 
 [experimental] [D3](https://d3js.org/what-is-d3): a large scale data visualization library for the more unique presentation needs. Plenty of future improvements planned.
 
+## Structure
+
+![Project tree](./project-tree.png)
+
 ## Contribution
 
 If you like this project and want to help improve it, you can do it multiple ways:

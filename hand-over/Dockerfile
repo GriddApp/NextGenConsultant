@@ -31,7 +31,6 @@ RUN npm run build
 FROM nginx:stable-alpine3.23 AS serve
 COPY --from=prod /opt/docusaurus/build /usr/share/nginx/html
 COPY --from=prod /opt/docusaurus/default.conf /etc/nginx/conf.d/default.conf
-COPY --from=prod /opt/docusaurus/.htpasswd /etc/nginx/.htpasswd
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 
