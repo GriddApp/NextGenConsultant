@@ -1,0 +1,508 @@
+{
+  "cols": [
+    1,
+    0.4,
+    1
+  ],
+  "rows": [
+    0.7445182724252492,
+    1.201827242524917,
+    1.201827242524917,
+    1.201827242524917
+  ],
+  "cells": [
+    [
+      {
+        "id": "24d64335-d9b9-4c86-b72a-104657c2e249",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 16pt;\">From</span></p>"
+      },
+      {
+        "id": "0e9f33e7-c3e3-4fdf-a49a-5b10b472dcaa",
+        "text": " "
+      },
+      {
+        "id": "1e332886-f7d5-473b-9454-ff0a3517c8ca",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(255, 255, 255); font-family: Arial; font-size: 16pt;\"><strong>To</strong></span></p>"
+      }
+    ],
+    [
+      {
+        "id": "fe6dc8fd-3107-4bc7-94b7-e19a98a31ae9",
+        "text": "[What it looks like now]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[What it looks like now]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7618e196-71b7-4633-b0c8-7fc238edb763",
+        "text": "<p style=\"text-align: left;\"></p>"
+      },
+      {
+        "id": "d07a03a5-68b8-4b80-a7d6-38bdd67567fd",
+        "text": "[What it will be in the future]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[What it will be in the future]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "deaded2a-217f-4a8d-be60-dc751af90329",
+        "text": "[What it looks like now]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[What it looks like now]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "4b6715ef-57d6-44bc-be69-0085f6c925a2",
+        "text": "<p style=\"text-align: left;\"></p>"
+      },
+      {
+        "id": "746408f4-0166-4746-8889-353431d97a50",
+        "text": "[What it will be in the future]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[What it will be in the future]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "0bf501de-ae6f-48ee-aa22-b24917545500",
+        "text": "[What it looks like now]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[What it looks like now]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "c08ad264-754f-4bb9-b66d-ccf0a6edc670",
+        "text": "<p style=\"text-align: left;\"></p>"
+      },
+      {
+        "id": "445e4bfe-b951-4e0f-9588-1226e0732fba",
+        "text": "[What it will be in the future]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[What it will be in the future]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "7d81a543-0050-4986-83b8-4c3d2000a3ab",
+      "isVertical": false,
+      "weight": 1,
+      "color": "black",
+      "style": "solid",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "e15b6648-df7b-45c1-8359-a41d5e08cf5c",
+      "isVertical": false,
+      "weight": 1,
+      "color": "black",
+      "style": "solid",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "f606f359-cbd6-4a31-bc8d-11d32bd429d7",
+      "isVertical": false,
+      "weight": 1,
+      "color": "black",
+      "style": "solid",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "619c1247-8339-4a78-8c42-dabf7bcaec18",
+      "index": 1,
+      "isVertical": false,
+      "color": "#001866",
+      "from": 0,
+      "to": null,
+      "preset": "level2",
+      "weight": 2,
+      "style": "solid"
+    },
+    {
+      "id": "28ae55bc-b4a7-4623-a85b-de5d135a250e",
+      "isVertical": false,
+      "weight": 1,
+      "color": "black",
+      "style": "solid",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "7e9b8ac2-0656-46bc-a85e-925bf57a7782",
+      "index": 1,
+      "isVertical": false,
+      "weight": 1,
+      "color": "black",
+      "style": "solid",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "global": {
+      "fontSizeAdd": 2
+    },
+    "24d64335-d9b9-4c86-b72a-104657c2e249": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "textAlign": "left",
+      "verticalAlign": "center",
+      "colorName": "text",
+      "isInverted": false,
+      "background": "#ffffff",
+      "backgroundName": "background",
+      "icon": "atlas:ArrowDownGraph",
+      "iconAlign": "left",
+      "iconSize": 20,
+      "iconEnclosure": "filled",
+      "iconColor": "#4C05FF",
+      "iconColorName": "accent2",
+      "padding": 6,
+      "fontUnderlined": false
+    },
+    "0e9f33e7-c3e3-4fdf-a49a-5b10b472dcaa": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "isInverted": false,
+      "background": "#ffffff",
+      "backgroundName": "background",
+      "fontUnderlined": false
+    },
+    "1e332886-f7d5-473b-9454-ff0a3517c8ca": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "colorName": "text",
+      "isInverted": false,
+      "background": "#ffffff",
+      "backgroundName": "background",
+      "icon": "atlas:ArrowUpGraphIncrease",
+      "iconAlign": "left",
+      "iconSize": 20,
+      "iconEnclosure": "filled",
+      "iconColor": "#4C05FF",
+      "iconColorName": "accent2",
+      "padding": 6,
+      "fontUnderlined": false
+    },
+    "fe6dc8fd-3107-4bc7-94b7-e19a98a31ae9": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "7618e196-71b7-4633-b0c8-7fc238edb763": {
+      "shape": {
+        "type": "ArrowWithoutTail",
+        "color": "#4C05FF",
+        "radius": 0,
+        "margin": 6,
+        "colorName": "accent2",
+        "outlineColor": "transparent",
+        "outlineColorName": "none"
+      },
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "d07a03a5-68b8-4b80-a7d6-38bdd67567fd": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "deaded2a-217f-4a8d-be60-dc751af90329": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "4b6715ef-57d6-44bc-be69-0085f6c925a2": {
+      "shape": {
+        "type": "ArrowWithoutTail",
+        "color": "#4C05FF",
+        "radius": 0,
+        "margin": 6,
+        "colorName": "accent2",
+        "outlineColor": "transparent",
+        "outlineColorName": "none"
+      },
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "746408f4-0166-4746-8889-353431d97a50": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "0bf501de-ae6f-48ee-aa22-b24917545500": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "c08ad264-754f-4bb9-b66d-ccf0a6edc670": {
+      "shape": {
+        "type": "ArrowWithoutTail",
+        "color": "#4C05FF",
+        "radius": 0,
+        "margin": 6,
+        "colorName": "accent2",
+        "outlineColor": "transparent",
+        "outlineColorName": "none"
+      },
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    },
+    "445e4bfe-b951-4e0f-9588-1226e0732fba": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [],
+    "rowColors": []
+  },
+  "merged": []
+}

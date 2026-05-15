@@ -1,0 +1,771 @@
+{
+  "cols": [
+    2.6339966958309744,
+    0.7019352510015651,
+    2.6339966958309744,
+    0.7019352510015651,
+    2.6339966958309744
+  ],
+  "rows": [
+    0.480167983629438,
+    2.575914099382309
+  ],
+  "cells": [
+    [
+      {
+        "id": "db93cc42-cc7e-4430-aed6-1446893d6662",
+        "text": "[What is factor one]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "11.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[What is factor one]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "44f84954-1e00-440f-bd98-293ab0956725",
+        "text": "<p></p>"
+      },
+      {
+        "id": "af5a4577-9883-4d2e-b8f5-2f1f59dbde1b",
+        "text": "[What is factor two]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "11.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[What is factor two]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "775011c1-e35d-4cb8-85d6-f0d5ddcffbfd",
+        "text": ""
+      },
+      {
+        "id": "5f91c392-1b1b-4489-8f35-305b7873d6be",
+        "text": "[What the result is]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "11.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[What the result is]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "d7aba1e3-f7de-44a7-b897-df0540a3b29a",
+        "text": "\n\n[Reasoning and evidence]\n\n[Reasoning and evidence]\n\n[Reasoning and evidence]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": null,
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": null
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "662c25ec-fa60-412f-bad9-4a8c9fb40c2d",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "cda81da7-3407-441e-a1a1-ab5ddc166bb3",
+        "text": "\n\n[Reasoning and evidence]\n\n[Reasoning and evidence]\n\n[Reasoning and evidence]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "9e5ad37e-2f3a-4e1d-96ce-fba63b701ee6",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "9ca97d1f-b3be-450f-90d8-ebe82c459869",
+        "text": "\n\n[Reasoning and evidence]\n\n[Reasoning and evidence]\n\n[Reasoning and evidence]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9.75pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Reasoning and evidence]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [],
+  "cellStyles": {
+    "db93cc42-cc7e-4430-aed6-1446893d6662": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "transparency": 0,
+        "marginBottom": -1
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "15pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "preset": "Header",
+      "fontSizeAdd": -1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 10,
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "44f84954-1e00-440f-bd98-293ab0956725": {
+      "shape": {
+        "outline": "solid",
+        "outlineWeight": 1
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "15pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Header",
+      "fontSizeAdd": -1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 8,
+      "fontUnderlined": false
+    },
+    "af5a4577-9883-4d2e-b8f5-2f1f59dbde1b": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "transparency": 0,
+        "marginBottom": -1
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "15pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "preset": "Header",
+      "fontSizeAdd": -1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 10,
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "775011c1-e35d-4cb8-85d6-f0d5ddcffbfd": {
+      "shape": {
+        "outline": "solid",
+        "outlineWeight": 1
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "15pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Header",
+      "fontSizeAdd": -1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 8,
+      "fontUnderlined": false
+    },
+    "5f91c392-1b1b-4489-8f35-305b7873d6be": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#4C05FF",
+        "colorName": "accent2",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#4C05FF",
+        "outlineColorName": "accent2",
+        "shadow": 0,
+        "transparency": 0
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "15pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "preset": "Header",
+      "fontSizeAdd": -1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 10,
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "d7aba1e3-f7de-44a7-b897-df0540a3b29a": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 50,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "isInverted": false,
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#ffffff",
+        "colorName": "background",
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "transparency": 0,
+        "zIndex": 5,
+        "radius": 0
+      },
+      "padding": 11,
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontSizeAdd": 1,
+      "fontUnderlined": false
+    },
+    "662c25ec-fa60-412f-bad9-4a8c9fb40c2d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 50,
+      "iconEnclosure": "none",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "isInverted": false,
+      "padding": 11,
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontSizeAdd": 1,
+      "fontUnderlined": false,
+      "icon": "lucide:CirclePlus"
+    },
+    "cda81da7-3407-441e-a1a1-ab5ddc166bb3": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 50,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "isInverted": false,
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#ffffff",
+        "colorName": "background",
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "transparency": 0,
+        "zIndex": 5,
+        "radius": 0
+      },
+      "padding": 11,
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontSizeAdd": 1,
+      "fontUnderlined": false
+    },
+    "9e5ad37e-2f3a-4e1d-96ce-fba63b701ee6": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 50,
+      "iconEnclosure": "none",
+      "iconColor": "#4C05FF",
+      "iconColorName": "accent2",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "isInverted": false,
+      "padding": 11,
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontSizeAdd": 1,
+      "fontUnderlined": false,
+      "icon": "lucide:CircleEqual"
+    },
+    "9ca97d1f-b3be-450f-90d8-ebe82c459869": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": 50,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "isInverted": false,
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#ffffff",
+        "colorName": "background",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "transparency": 0,
+        "marginLeft": 0
+      },
+      "padding": 10,
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontSizeAdd": 1,
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent",
+      "transparent",
+      "transparent",
+      "transparent"
+    ],
+    "rowColors": [
+      "transparent"
+    ]
+  },
+  "merged": []
+}

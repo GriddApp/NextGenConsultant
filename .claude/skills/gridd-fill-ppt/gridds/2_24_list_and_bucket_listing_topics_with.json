@@ -1,0 +1,716 @@
+{
+  "cols": [
+    0.13253012048192772,
+    0.5499979439944078,
+    2.3174719355236646
+  ],
+  "rows": [
+    "*",
+    "*",
+    "*"
+  ],
+  "cells": [
+    [
+      {
+        "id": "b5daf1d3-a830-4a05-8175-49ad34594c2a",
+        "text": "<p style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-family: Arial; font-size: 12pt;\">1</span></p>"
+      },
+      {
+        "id": "1e9a1d5a-bf40-4a7d-9676-faf645452ee3",
+        "text": "[Topic/ finding]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Topic/ finding]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ca3c7d92-a1b7-4f12-b9a1-c1d84239366d",
+        "text": "\n\n[Short description in a couple of bullet points]\n\n[Short description in a couple of bullet points]\n\n[Short description in a couple of bullet points]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "left"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "12pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "left"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "12pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "left"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "12pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "bad53a01-23cb-49dd-85fe-dc0da530c1dd",
+        "text": "<p style=\"text-align: center;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">2</span></p>"
+      },
+      {
+        "id": "ffd65771-e517-4be8-a402-fea2ccb863a6",
+        "text": "[Topic/ finding]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Topic/ finding]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "db0e69cb-43c9-4446-86ad-2abb1b4ff410",
+        "text": "\n\n[Short description in a couple of bullet points]\n\n[Short description in a couple of bullet points]\n\n[Short description in a couple of bullet points]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "left"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "12pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "left"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "12pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": "left"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "12pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "d833bcf7-282f-440e-85d2-aba5eab7d104",
+        "text": "<p style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-family: Arial;\">3</span></p>"
+      },
+      {
+        "id": "4b7441de-6574-4e25-9c3a-e2dc11777efe",
+        "text": "[Topic/ finding]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Topic/ finding]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ef33ca0b-9ece-45c7-9ecb-d847f9518922",
+        "text": "\n\n[Short description in a couple of bullet points]\n\n[Short description in a couple of bullet points]\n\n[Short description in a couple of bullet points]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Short description in a couple of bullet points]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [],
+  "cellStyles": {
+    "b5daf1d3-a830-4a05-8175-49ad34594c2a": {
+      "shape": {
+        "type": "Circle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outline": "solid",
+        "outlineWeight": 2,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 20,
+        "marginPerc": 0,
+        "marginRight": -25,
+        "zIndex": 15
+      },
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "weight": "bold",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "preset": "Header",
+      "size": "16pt",
+      "fontUnderlined": false
+    },
+    "1e9a1d5a-bf40-4a7d-9676-faf645452ee3": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "radius": 0,
+        "margin": 6,
+        "outline": "solid",
+        "outlineWeight": 2
+      },
+      "background": "transparent",
+      "backgroundName": "none",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "paddingLeft": 23,
+      "fontUnderlined": false
+    },
+    "ca3c7d92-a1b7-4f12-b9a1-c1d84239366d": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e8f0fa",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 2,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 6
+      },
+      "background": "transparent",
+      "backgroundName": "none",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Body",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "bad53a01-23cb-49dd-85fe-dc0da530c1dd": {
+      "shape": {
+        "type": "Circle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outline": "solid",
+        "outlineWeight": 2,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 20,
+        "marginPerc": 0,
+        "marginRight": -25,
+        "zIndex": 15
+      },
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "weight": "bold",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "preset": "Header",
+      "size": "16pt",
+      "fontUnderlined": false
+    },
+    "ffd65771-e517-4be8-a402-fea2ccb863a6": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "radius": 0,
+        "margin": 6,
+        "outline": "solid",
+        "outlineWeight": 2
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "background": "transparent",
+      "backgroundName": "none",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "paddingLeft": 23,
+      "fontUnderlined": false
+    },
+    "db0e69cb-43c9-4446-86ad-2abb1b4ff410": {
+      "color": "#333333",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e8f0fa",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 2,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 6
+      },
+      "background": "transparent",
+      "backgroundName": "none",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "colorName": "text",
+      "preset": "Body",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "d833bcf7-282f-440e-85d2-aba5eab7d104": {
+      "shape": {
+        "type": "Circle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outline": "solid",
+        "outlineWeight": 2,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 20,
+        "marginPerc": 0,
+        "marginRight": -25,
+        "zIndex": 15
+      },
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "weight": "bold",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "preset": "Header",
+      "size": "16pt",
+      "fontUnderlined": false
+    },
+    "4b7441de-6574-4e25-9c3a-e2dc11777efe": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "radius": 0,
+        "margin": 6,
+        "outline": "solid",
+        "outlineWeight": 2
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "background": "transparent",
+      "backgroundName": "none",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "paddingLeft": 23,
+      "fontUnderlined": false
+    },
+    "ef33ca0b-9ece-45c7-9ecb-d847f9518922": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#e8f0fa",
+        "colorName": "secondary2",
+        "radius": 0,
+        "outline": "solid",
+        "outlineWeight": 2,
+        "outlineColor": "#ffffff",
+        "outlineColorName": "background",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 6
+      },
+      "background": "transparent",
+      "backgroundName": "none",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Body",
+      "padding": 5,
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent"
+    ],
+    "rowColors": [
+      "transparent"
+    ]
+  },
+  "merged": []
+}

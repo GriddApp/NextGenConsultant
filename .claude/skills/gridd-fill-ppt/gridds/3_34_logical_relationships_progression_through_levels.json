@@ -1,0 +1,760 @@
+{
+  "cols": [
+    0.6870003061953527,
+    1.3129996938046475
+  ],
+  "rows": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "cells": [
+    [
+      {
+        "id": "8b1de956-516a-48f9-8fb0-436a1b2e7eab",
+        "text": "[What these segments are]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "11.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[What these segments are]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "c53b320d-6d0e-4c35-8731-731a723c5e11",
+        "text": "[What to know about them]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[What to know about them]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "95b22407-1c00-4ab1-a733-0e29616a36e0",
+        "text": "[1st level name]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[1st level name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "59259ae8-0035-42a8-9ec4-7300491bb0f8",
+        "text": "[Key insights]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[Key insights]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "82ec5e6e-5390-44f8-a8c0-39926ce82928",
+        "text": "[2nd level name]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "11pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[2nd level name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "3f304af1-4527-4773-97ab-ad39e2cd09fc",
+        "text": "[Key insights]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key insights]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "40129e97-8cc6-499b-a6c4-48b089a3bbe8",
+        "text": "[3rd level \nname]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[3rd level "
+                },
+                {
+                  "type": "hardBreak",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "4d893933-542a-4d56-bb6b-42b4723a229c",
+        "text": "[Key insights]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key insights]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "3d3b0191-4ac1-48e3-8f60-dc040a3fb4e4",
+        "text": "[4th level \nname]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[4th level "
+                },
+                {
+                  "type": "hardBreak",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "name]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "d9c41132-9000-4724-bdb7-26d2d6a3aefc",
+        "text": "[Key insights]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "7.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key insights]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "ecd8b7aa-b1a6-462d-94c9-aa4f5559fc8f",
+        "text": "[5th level or starting point]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[5th level or starting point]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7d2b8e05-78c9-450a-9487-2d08524cd1e4",
+        "text": "[Key insights]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "7.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key insights]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "49b43332-88f3-4662-a8bf-9827fa1bd70b",
+      "index": 2,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 1,
+      "to": null,
+      "preset": "level3"
+    },
+    {
+      "id": "7a069b4b-5fd8-4d9e-b16f-e33e58f34784",
+      "index": 3,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 1,
+      "to": null,
+      "preset": "level3"
+    },
+    {
+      "id": "6e7419ed-50cb-4984-9f5c-ae0bcaf32851",
+      "index": 4,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 1,
+      "to": null,
+      "preset": "level3"
+    },
+    {
+      "id": "c27daf1e-61aa-4667-92ca-1886d5ff5085",
+      "index": 1,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "56f52c04-2a80-4599-8472-df971c88c845",
+      "index": 5,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 1,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "shapeGroups": {
+      "5729b4a4-a598-4a53-8e08-3094045e6605": {
+        "type": "pyramid",
+        "fill": "#001866",
+        "fillName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "reverse": true
+      }
+    },
+    "8b1de956-516a-48f9-8fb0-436a1b2e7eab": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "15pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "fontSizeAdd": -1,
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "c53b320d-6d0e-4c35-8731-731a723c5e11": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontSizeAdd": -2,
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "95b22407-1c00-4ab1-a733-0e29616a36e0": {
+      "shape": {
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "normal",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Body",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontSizeAdd": -1,
+      "padding": 5,
+      "fontUnderlined": false,
+      "shapeGroupId": "5729b4a4-a598-4a53-8e08-3094045e6605"
+    },
+    "59259ae8-0035-42a8-9ec4-7300491bb0f8": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontSizeAdd": -2,
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "82ec5e6e-5390-44f8-a8c0-39926ce82928": {
+      "shape": {
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "normal",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Body",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontSizeAdd": -1,
+      "padding": 5,
+      "fontUnderlined": false,
+      "shapeGroupId": "5729b4a4-a598-4a53-8e08-3094045e6605"
+    },
+    "3f304af1-4527-4773-97ab-ad39e2cd09fc": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontSizeAdd": -2,
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "40129e97-8cc6-499b-a6c4-48b089a3bbe8": {
+      "shape": {
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "normal",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Body",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontSizeAdd": -1,
+      "padding": 5,
+      "fontUnderlined": false,
+      "shapeGroupId": "5729b4a4-a598-4a53-8e08-3094045e6605"
+    },
+    "4d893933-542a-4d56-bb6b-42b4723a229c": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontSizeAdd": -2,
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "3d3b0191-4ac1-48e3-8f60-dc040a3fb4e4": {
+      "shape": {
+        "color": "#e8f0fa",
+        "colorName": "secondary2",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "normal",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "isInverted": false,
+      "fontSizeAdd": -1,
+      "padding": 5,
+      "fontUnderlined": false,
+      "shapeGroupId": "5729b4a4-a598-4a53-8e08-3094045e6605"
+    },
+    "d9c41132-9000-4724-bdb7-26d2d6a3aefc": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "fontSizeAdd": -2,
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "ecd8b7aa-b1a6-462d-94c9-aa4f5559fc8f": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "isInverted": false,
+      "fontSizeAdd": -1,
+      "padding": 5,
+      "fontUnderlined": false,
+      "icon": "lucide:Dot",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#001866",
+      "iconColorName": "accent1"
+    },
+    "7d2b8e05-78c9-450a-9487-2d08524cd1e4": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "10pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "bottom",
+      "fontSizeAdd": -2,
+      "padding": 5,
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [],
+    "rowColors": []
+  },
+  "merged": []
+}

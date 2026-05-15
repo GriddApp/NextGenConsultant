@@ -1,0 +1,959 @@
+{
+  "cols": [
+    0.5,
+    0.960972850678733,
+    1.039027149321267
+  ],
+  "rows": [
+    0.6423841059602649,
+    1.119205298013245,
+    1.119205298013245,
+    1.119205298013245
+  ],
+  "cells": [
+    [
+      {
+        "id": "0a25e3cd-942a-436f-ba4e-1341149747d8",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "ab85cf94-2e5b-44d0-813b-2ce3a4c2e63c",
+        "text": "Sub-header 1",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "Sub-header 1"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "e704069b-9473-41e1-bfd8-e3d7564301d9",
+        "text": "Sub-header 2",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Sub-header 2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "1e9a1d5a-bf40-4a7d-9676-faf645452ee3",
+        "text": "[Main category/ message]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Main category/ message]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "05165e61-81d9-4e37-840d-d4f73410fe89",
+        "text": "[Key points]\n\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key points]"
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": null,
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": null
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": null,
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": null
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": null,
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": null
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": null,
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": null
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": null,
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": null
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "ca3c7d92-a1b7-4f12-b9a1-c1d84239366d",
+        "text": "Key points]\n\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n\n[Evidence or resoning]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "Key points]"
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "",
+                                "color": "rgb(51, 51, 51)",
+                                "fontFamily": "Arial",
+                                "fontSize": "9pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "[Evidence or resoning]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "4b7441de-6574-4e25-9c3a-e2dc11777efe",
+        "text": "[Main category/ message]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "12pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Main category/ message]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ba4cbb03-f7b9-42f5-b364-2f7eaf4e1d77",
+        "text": "[Key points]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key points]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ef33ca0b-9ece-45c7-9ecb-d847f9518922",
+        "text": "[Key points]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "7.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key points]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "411a1b4b-f505-4a7d-aa1b-593eacf3a04f",
+        "text": "[Main category/ message]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Main category/ message]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "70a48595-6367-450b-afa0-5ed58e3da41c",
+        "text": "[Key points]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "7.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key points]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "3204c989-f752-4566-a8a8-c71f621f682f",
+        "text": "[Key points]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "7.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Key points]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [],
+  "cellStyles": {
+    "global": {
+      "fontSizeAdd": 0
+    },
+    "0a25e3cd-942a-436f-ba4e-1341149747d8": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Header",
+      "fontUnderlined": false
+    },
+    "ab85cf94-2e5b-44d0-813b-2ce3a4c2e63c": {
+      "textAlign": "left",
+      "verticalAlign": "bottom",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Header",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "e704069b-9473-41e1-bfd8-e3d7564301d9": {
+      "textAlign": "left",
+      "verticalAlign": "bottom",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Header",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "1e9a1d5a-bf40-4a7d-9676-faf645452ee3": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#eAeaea",
+        "colorName": "shading1",
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "transparency": 0,
+        "margin": 5,
+        "radius": 0
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "background": "#ffffff",
+      "backgroundName": "background",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "colorName": "text",
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "05165e61-81d9-4e37-840d-d4f73410fe89": {
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "isInverted": false,
+      "padding": 5,
+      "preset": "Body",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "ca3c7d92-a1b7-4f12-b9a1-c1d84239366d": {
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 5,
+      "weight": "normal",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "size": "12pt",
+      "preset": "Body",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "isInverted": false,
+      "fontUnderlined": false
+    },
+    "4b7441de-6574-4e25-9c3a-e2dc11777efe": {
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "weight": "bold",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "colorName": "text",
+      "isInverted": false,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "ba4cbb03-f7b9-42f5-b364-2f7eaf4e1d77": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "colorName": "text",
+      "isInverted": false,
+      "padding": 5,
+      "preset": "Body",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "ef33ca0b-9ece-45c7-9ecb-d847f9518922": {
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 5,
+      "weight": "normal",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "size": "12pt",
+      "preset": "Body",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "isInverted": false,
+      "fontUnderlined": false
+    },
+    "411a1b4b-f505-4a7d-aa1b-593eacf3a04f": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#eAeaea",
+        "colorName": "shading1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "radius": 0,
+        "margin": 5
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "background": "#ffffff",
+      "backgroundName": "background",
+      "colorName": "text",
+      "preset": "SubHeader",
+      "isInverted": false,
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "70a48595-6367-450b-afa0-5ed58e3da41c": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "colorName": "text",
+      "isInverted": false,
+      "padding": 5,
+      "preset": "Body",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "3204c989-f752-4566-a8a8-c71f621f682f": {
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 5,
+      "fontSizeAdd": 0,
+      "size": "12pt",
+      "weight": "normal",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Body",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "isInverted": false,
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent"
+    ],
+    "rowColors": [
+      "transparent"
+    ]
+  },
+  "merged": [
+    {
+      "cell": {
+        "x": 1,
+        "y": 1
+      },
+      "length": 2,
+      "dir": "down"
+    },
+    {
+      "cell": {
+        "x": 1,
+        "y": 2
+      },
+      "length": 2,
+      "dir": "down"
+    }
+  ]
+}
