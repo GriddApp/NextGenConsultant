@@ -1,0 +1,1231 @@
+{
+  "cols": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "rows": [
+    0.6,
+    0.6,
+    1.2,
+    1.2,
+    1.2
+  ],
+  "cells": [
+    [
+      {
+        "id": "58b0178e-c8b9-4d4c-a4da-f2528e39c41d",
+        "text": "\n"
+      },
+      {
+        "id": "47081e8f-a659-4eec-8466-40bad10bea2f",
+        "text": "[Category 1]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Category 1]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "6416d16f-7d8d-4e5b-92d1-9938ea6678ad",
+        "text": ""
+      },
+      {
+        "id": "2e2d1433-16ce-4d3c-af94-c210922a96df",
+        "text": "[Category 2]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Category 2]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "57e46061-554b-40ae-b4c0-44f930d1936b",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "id": "edc6e5ca-0a5c-49cb-b8d3-aee048a61679",
+        "text": ""
+      },
+      {
+        "id": "eb4efb63-7de2-4204-a14f-9a06a701c641",
+        "text": "[Subcategory 1]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Subcategory 1]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7f92f0ca-77ef-4095-8bc8-3735fc8498d7",
+        "text": "[Subcategory 2]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Subcategory 2]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "f4c56944-95fb-440f-a8eb-c9e89ae72a14",
+        "text": "[Subcategory 1]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Subcategory 1]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "58fb3c35-d139-4c35-8237-59cd9f3cb242",
+        "text": "[Subcategory 2]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Subcategory 2]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "d0c0411d-674c-4db7-bf00-e92e556ffb4b",
+        "text": "[Aspect 1]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "13pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Aspect 1]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "e399f0be-0703-4185-9505-897337621db2",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "8f394905-0811-412e-9f23-c8ddb5adb55d",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "639d2064-217e-489b-8171-99c80f68b93b",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "dd7dd1f7-c9f3-4461-806e-40f6e5a408c1",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "f9934a72-72de-4048-8c5c-64ea6ee056ba",
+        "text": "[Aspect 2]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "13pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Aspect 2]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "6981f243-a748-4044-848f-2973222701ed",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "8587f580-c036-4f65-8a71-242f7831039b",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "a77a1f91-f195-4478-938a-943b28a57e3f",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "0da432c4-457f-4fff-9a08-0a1afcb4f419",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "05977b0e-c13a-476f-89e7-9077a42ee0ac",
+        "text": "[Aspect 3]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "13pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Aspect 3]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "56648bc0-fc49-4937-a60d-2b7b2d7db612",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "9b988ebf-9de3-4264-88c4-89b7903222af",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "708468d2-66ff-4b32-9d0c-0e4fbd81894d",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "b83d6e49-fd55-4fef-87be-0a5eb2b08142",
+        "text": "[How this subcategory is different based on this dimension/aspect]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[How this subcategory is different based on this dimension/aspect]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "06d68cf8-1fac-4847-a615-596cd11150dd",
+      "index": 3,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#c0c0c0",
+      "style": "solid",
+      "preset": "level4",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "a490b48b-6742-4594-9304-68ba586c1da2",
+      "index": 4,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#c0c0c0",
+      "style": "solid",
+      "preset": "level4",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "8d8cce32-f15d-41cf-b202-9e3b022ed994",
+      "index": 5,
+      "isVertical": false,
+      "weight": 2,
+      "color": "#001866",
+      "style": "solid",
+      "preset": "level2",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "3a8a8188-3b23-4dc8-af81-bd6e1dcc950e",
+      "index": 2,
+      "isVertical": false,
+      "weight": 2,
+      "color": "#001866",
+      "style": "solid",
+      "preset": "level2",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "global": {
+      "fontSizeAdd": -3
+    },
+    "58b0178e-c8b9-4d4c-a4da-f2528e39c41d": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "SubHeader",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "47081e8f-a659-4eec-8466-40bad10bea2f": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "6416d16f-7d8d-4e5b-92d1-9938ea6678ad": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "shape": {
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 0,
+        "marginPerc": 7.5
+      },
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "2e2d1433-16ce-4d3c-af94-c210922a96df": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "57e46061-554b-40ae-b4c0-44f930d1936b": {
+      "shape": {
+        "color": "#001866",
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "color": "#FFFFFF",
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "edc6e5ca-0a5c-49cb-b8d3-aee048a61679": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "SubHeader",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "eb4efb63-7de2-4204-a14f-9a06a701c641": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "7f92f0ca-77ef-4095-8bc8-3735fc8498d7": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "f4c56944-95fb-440f-a8eb-c9e89ae72a14": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "58fb3c35-d139-4c35-8237-59cd9f3cb242": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "11pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "SubHeader",
+      "fontUnderlined": false
+    },
+    "d0c0411d-674c-4db7-bf00-e92e556ffb4b": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "margin": 4,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF"
+    },
+    "e399f0be-0703-4185-9505-897337621db2": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "8f394905-0811-412e-9f23-c8ddb5adb55d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "639d2064-217e-489b-8171-99c80f68b93b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "dd7dd1f7-c9f3-4461-806e-40f6e5a408c1": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "f9934a72-72de-4048-8c5c-64ea6ee056ba": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "margin": 4,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF"
+    },
+    "6981f243-a748-4044-848f-2973222701ed": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "8587f580-c036-4f65-8a71-242f7831039b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "a77a1f91-f195-4478-938a-943b28a57e3f": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "0da432c4-457f-4fff-9a08-0a1afcb4f419": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "05977b0e-c13a-476f-89e7-9077a42ee0ac": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 25,
+        "margin": 4,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF"
+    },
+    "56648bc0-fc49-4937-a60d-2b7b2d7db612": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "9b988ebf-9de3-4264-88c4-89b7903222af": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "708468d2-66ff-4b32-9d0c-0e4fbd81894d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    },
+    "b83d6e49-fd55-4fef-87be-0a5eb2b08142": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "padding": 3,
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [],
+    "rowColors": []
+  },
+  "merged": [
+    {
+      "cell": {
+        "id": "47081e8f-a659-4eec-8466-40bad10bea2f",
+        "x": 0,
+        "y": 1
+      },
+      "length": 1,
+      "dir": "right"
+    },
+    {
+      "cell": {
+        "id": "2e2d1433-16ce-4d3c-af94-c210922a96df",
+        "x": 0,
+        "y": 3
+      },
+      "length": 1,
+      "dir": "right"
+    },
+    {
+      "cell": {
+        "id": "58b0178e-c8b9-4d4c-a4da-f2528e39c41d",
+        "x": 0,
+        "y": 0
+      },
+      "length": 1,
+      "dir": "down"
+    }
+  ]
+}

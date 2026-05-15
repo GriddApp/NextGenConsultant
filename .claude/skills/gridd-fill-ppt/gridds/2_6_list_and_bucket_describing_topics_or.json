@@ -1,0 +1,392 @@
+{
+  "cols": [
+    0.4068631368631369,
+    1.5931368631368632
+  ],
+  "rows": [
+    0.5171728971962617,
+    1.2858003481766538,
+    1.2858003481766538,
+    1.2858003481766538
+  ],
+  "cells": [
+    [
+      {
+        "id": "863d20f3-c17b-4f8f-aade-345bf34e55e9",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 16pt;\"><strong>[Category name]</strong></span></p>"
+      },
+      {
+        "id": "d74798b0-8108-40c7-a3b7-9236404c15cd",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\"><strong>Description</strong></span></p>"
+      }
+    ],
+    [
+      {
+        "id": "d1c89c19-49a7-4d35-8257-380ed1e385e0",
+        "text": "[Topic or insight]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Topic or insight]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "b4a0637b-ddeb-438e-95a8-01fd79433302",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p><p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p><p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p>"
+      }
+    ],
+    [
+      {
+        "id": "c8d49a62-6437-4de7-8eda-70cbf02fcae4",
+        "text": "[Topic or insight]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(255, 255, 255)",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Topic or insight]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7feb7b1f-4fca-4224-b8af-ce6997d0c14a",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p><p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p><p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p>"
+      }
+    ],
+    [
+      {
+        "id": "68d35296-2753-4a7c-9c6c-852a37de5386",
+        "text": "[Topic or insight]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(255, 255, 255)",
+                        "fontFamily": "Arial",
+                        "fontSize": "14pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Topic or insight]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "9c60b695-3f8a-4ca5-9d30-3881a006106b",
+        "text": "<p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p><p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p><p style=\"text-align: left;\"><span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 12pt;\">•[Insert description in bullet form]</span></p>"
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "faf11d7c-f0ac-40fe-b541-22fff80603aa",
+      "index": 2,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "ebb4d14b-76b6-437c-a88d-772131b0961b",
+      "index": 3,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 0,
+      "to": 3,
+      "preset": "level3"
+    },
+    {
+      "id": "b8dfa345-1e3d-4905-9f49-b313e3be6019",
+      "index": 2,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "from": 0,
+      "to": 3,
+      "preset": "level3"
+    },
+    {
+      "id": "f3d2feb1-efc6-4619-9ddd-5e5809c173c2",
+      "index": 4,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "348c784b-58c0-4cf6-88ad-d86534588430",
+      "index": 0,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "033ed620-cec3-4b58-b339-3f9a931bacbb",
+      "index": 2,
+      "isVertical": true,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "73117ec9-3e9b-4464-ae9c-7b2ca1fe2475",
+      "index": 1,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": 3
+    },
+    {
+      "id": "b51c7b6d-dbe8-4b82-872e-53fdd867b8ee",
+      "index": 0,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "863d20f3-c17b-4f8f-aade-345bf34e55e9": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "preset": "Header",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "d74798b0-8108-40c7-a3b7-9236404c15cd": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "bold",
+      "style": "normal",
+      "size": "16pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "preset": "Header",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "d1c89c19-49a7-4d35-8257-380ed1e385e0": {
+      "background": "#5Da8f9",
+      "backgroundName": "secondary1",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "bold",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "preset": "SubHeader",
+      "padding": 5,
+      "size": "14pt",
+      "fontUnderlined": false
+    },
+    "b4a0637b-ddeb-438e-95a8-01fd79433302": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Body",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "c8d49a62-6437-4de7-8eda-70cbf02fcae4": {
+      "background": "#5Da8f9",
+      "backgroundName": "secondary1",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "bold",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "preset": "SubHeader",
+      "padding": 5,
+      "size": "14pt",
+      "fontUnderlined": false
+    },
+    "7feb7b1f-4fca-4224-b8af-ce6997d0c14a": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Body",
+      "padding": 5,
+      "fontUnderlined": false
+    },
+    "68d35296-2753-4a7c-9c6c-852a37de5386": {
+      "background": "#5Da8f9",
+      "backgroundName": "secondary1",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "bold",
+      "style": "normal",
+      "fontFamily": "Arial",
+      "preset": "SubHeader",
+      "padding": 5,
+      "size": "14pt",
+      "fontUnderlined": false
+    },
+    "9c60b695-3f8a-4ca5-9d30-3881a006106b": {
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "weight": "normal",
+      "style": "normal",
+      "size": "12pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "preset": "Body",
+      "padding": 5,
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent",
+      "transparent",
+      "transparent"
+    ],
+    "rowColors": [
+      "transparent",
+      "transparent",
+      "transparent",
+      "transparent"
+    ]
+  },
+  "merged": []
+}

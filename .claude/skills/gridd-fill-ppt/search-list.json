@@ -1,0 +1,902 @@
+[
+  {
+    "identifier": "1_6_document_framing_agenda",
+    "name": "Agenda",
+    "description": "This is a simple agenda slide template featuring a clean, minimalist design with the word \"Agenda\" as the main heading. The template provides a blank space for listing meeting topics, presentation outline items, or discussion points. It's ideal for introducing the structure and flow of meetings, presentations, or workshops to set clear expectations for participants."
+  },
+  {
+    "identifier": "1_7_document_framing_agenda_with_highlight_and",
+    "name": "Agenda[with highlight and sub-bullets]",
+    "description": "This slide template presents a structured agenda format with main topics and hierarchical sub-bullets for detailed breakdown of discussion points. The design includes bullet points with highlighting capabilities to emphasize key agenda items or sections. This template is ideal for meeting presentations, workshops, or conferences where organizers need to clearly outline the session structure and highlight priority topics for attendees."
+  },
+  {
+    "identifier": "1_8_document_framing_agenda_for_2",
+    "name": "Agenda for 2 days",
+    "description": "This template provides a structured 2-day agenda layout with numbered agenda items organized in two columns. The left column features items with blue circular indicators, while the right column uses gray circular indicators to distinguish between different days or session types. It's ideal for workshop planning, conference schedules, or multi-day training program outlines where clear visual separation of content is needed."
+  },
+  {
+    "identifier": "1_9_document_framing_detailed_workshop_agenda",
+    "name": "Detailed workshop agenda",
+    "description": "This slide template provides a structured framework for presenting a detailed workshop agenda with four main sections or time blocks. It features a clean, professional layout with blue header sections and white content areas below each section for listing specific activities, topics, or time allocations. This template is ideal for workshop facilitators, trainers, or meeting organizers who need to communicate a comprehensive schedule to participants in advance or during the event."
+  },
+  {
+    "identifier": "1_10_document_framing_goals_of_the",
+    "name": "Goals of the meeting",
+    "description": "This presentation slide template is designed to outline meeting objectives at the beginning of a presentation or business meeting. It features a target/bullseye icon on the left side with three bullet points on the right for listing specific goals or agenda items. This template is ideal for setting clear expectations and keeping participants focused on the key outcomes to be achieved during the meeting."
+  },
+  {
+    "identifier": "1_11_document_framing_objectives",
+    "name": "Objectives",
+    "description": "This presentation slide template is designed to outline project or presentation objectives in a clear, bulleted format. It features a simple layout with numbered objective points and includes placeholder text for describing various aspects or goals. This template is ideal for business presentations, project kickoffs, or academic presentations where you need to clearly communicate key aims and expected outcomes to your audience."
+  },
+  {
+    "identifier": "1_14_document_framing_contents_chapter_contrast_chapter",
+    "name": "Contents/Chapter contrast (Chapter 1 – repeat this page 3 times, coloring each section with Accent 3 one-by-one)",
+    "description": "This slide template displays a three-chapter content overview with circular numbered sections that can be progressively highlighted using Accent 3 coloring. Designed for sequential presentation of chapter content, it allows presenters to emphasize one section at a time across three identical slides. Ideal for course introductions, training modules, or multi-part presentations where you want to build focus chapter by chapter."
+  },
+  {
+    "identifier": "1_15_document_framing_contents_chapter_minimalistic_style",
+    "name": "Contents/Chapter minimalistic style [Chapter 1 – repeat this page 3 times, coloring each section with Accent 3 one-by-one]",
+    "description": "This presentation template provides a minimalistic table of contents or chapter overview slide designed for sequential reveals. The template features three numbered sections with a clean, modern layout using Accent 3 color scheme, intended to be duplicated three times with progressive highlighting of each section to create an animated build effect for presenting chapter or content overviews."
+  },
+  {
+    "identifier": "1_16_document_framing_contents_chapter_with_images",
+    "name": "Contents/Chapter with images",
+    "description": "This slide template is designed to present chapter contents or sections with accompanying visual elements. It features a three-column layout with placeholder text areas and dedicated image spaces for each section. This template is ideal for course outlines, book chapters, or structured content presentations where visual context enhances understanding of each topic or section."
+  },
+  {
+    "identifier": "1_17_document_framing_purpose_of_this",
+    "name": "Purpose of this doc – what this document is and is not",
+    "description": "This slide template is designed to clarify document scope and set expectations by contrasting what a document covers versus what it doesn't. It features a two-column layout with \"What this document covers\" and \"What this document doesn't cover\" sections, each containing bulleted lists for detailed comparisons. This template is ideal for project kickoffs, requirements documentation, or any presentation where defining clear boundaries and managing stakeholder expectations is essential."
+  },
+  {
+    "identifier": "1_18_document_framing_summary_of_this",
+    "name": "Summary of this document",
+    "description": "This template provides a structured layout for summarizing document content with a clear title section and organized information blocks. It features a blue-themed design with designated spaces for key points, bullet items, and additional notes or comments. This slide is ideal for presenting executive summaries, document overviews, or condensed versions of longer reports to stakeholders or team members."
+  },
+  {
+    "identifier": "1_19_document_framing_executive_summary_simple",
+    "name": "Executive summary [simple, SCR]",
+    "description": "This is a simple executive summary slide template designed for presenting key findings or recommendations in a clean, professional format. The template features three blue rectangular sections on the left side paired with corresponding text areas on the right for detailed explanations. It's ideal for summarizing strategic insights, project outcomes, or high-level recommendations to executive audiences."
+  },
+  {
+    "identifier": "1_20_document_framing_executive_summary",
+    "name": "Executive summary",
+    "description": "This executive summary slide template provides a structured format for presenting high-level project or business overview information. It features a table layout with rows for key summary points, descriptions, and metrics, using a professional blue and white color scheme. The template is ideal for opening presentations to stakeholders, board meetings, or project reviews where you need to quickly communicate the most important findings, recommendations, or status updates."
+  },
+  {
+    "identifier": "1_21_document_framing_executive_summary",
+    "name": "Executive summary",
+    "description": "This executive summary slide template provides a structured overview of key project or business initiative highlights. It features a clean layout with blue accent bars on the left side and space for bullet points or summary statements on the right. The template is ideal for presenting high-level findings, recommendations, or project outcomes to senior leadership and stakeholders."
+  },
+  {
+    "identifier": "1_22_document_framing_project_or_document",
+    "name": "Project or document context",
+    "description": "This template provides a structured framework for documenting project or document context through three distinct content sections. The slide features three columns with headers in different colors (purple \"Background\", dark blue \"Current Goals\", and light blue for a third category) and placeholder text areas below each header. It's designed for project planning presentations, status updates, or document introductions where teams need to clearly communicate the background, objectives, and additional contextual information."
+  },
+  {
+    "identifier": "1_27_document_framing_next_steps",
+    "name": "Next steps",
+    "description": "This template provides a structured format for outlining upcoming actions or future plans in a presentation. It features a clean dark blue background with white bullet points and text, making it ideal for concluding slides where you need to communicate follow-up tasks, project phases, or strategic initiatives. Perfect for business meetings, project reviews, or strategic planning sessions where clear next steps need to be communicated to stakeholders."
+  },
+  {
+    "identifier": "1_28_document_framing_next_steps_with",
+    "name": "Next steps with responsible and deadline",
+    "description": "This presentation slide template displays a structured timeline or action plan with four sequential steps, each paired with corresponding responsibilities and deadlines. The template uses a clean tabular format to organize next steps, assigned parties, and target completion dates. It's designed for project management presentations, team meetings, or strategic planning sessions where clear accountability and time-bound deliverables need to be communicated."
+  },
+  {
+    "identifier": "2_6_list_and_bucket_describing_topics_or",
+    "name": "Describing topics or insights with a boxy layout",
+    "description": "This template provides a structured layout for presenting categorized information using a boxy, tabular format with distinct sections for topics and their corresponding descriptions or insights. It features alternating blue header rows and white content areas to clearly organize and separate different categories of information. This design is ideal for summarizing key findings, breaking down complex topics into digestible sections, or presenting comparative analysis across multiple categories."
+  },
+  {
+    "identifier": "2_7_list_and_bucket_buckets_of_topics",
+    "name": "Buckets of topics or insights, rounded boxes",
+    "description": "This slide template provides a structured layout for categorizing and organizing multiple topics, insights, or content areas using visually distinct rounded boxes. It features three dark blue rounded rectangular sections on the left for main categories or headers, with corresponding white space on the right for detailed descriptions or bullet points. This template is ideal for presenting grouped information, project phases, key insights, or any content that benefits from clear visual separation and categorization."
+  },
+  {
+    "identifier": "2_8_list_and_bucket_buckets_of_topics",
+    "name": "Buckets of topics or insights, rounded boxes and colorful icons",
+    "description": "This slide template is designed for organizing and presenting categorized information using visually appealing rounded boxes and colorful icons. It's ideal for displaying topic clusters, key insights, or grouped data points in a structured, easy-to-digest format. Best suited for strategy presentations, research findings, or educational content where information needs to be clearly segmented and visually distinguished."
+  },
+  {
+    "identifier": "2_9_list_and_bucket_standard_buckets_and",
+    "name": "Standard buckets and breakdown along 2 dimensions",
+    "description": "This slide template presents a structured breakdown format for categorizing information across two key dimensions. It features a clean layout with labeled sections for \"Standard buckets\" and \"Breakdown\" components, allowing users to organize and analyze data or concepts systematically. This template is ideal for strategy presentations, analytical frameworks, or any scenario requiring clear dimensional analysis and categorization of information."
+  },
+  {
+    "identifier": "2_10_list_and_bucket_many_buckets_of",
+    "name": "Many buckets of topics or insights, in two columns",
+    "description": "This slide template provides a structured layout for organizing multiple categories of information or insights into a two-column format. Each column contains several \"buckets\" or sections with category names on the left and corresponding descriptions or details on the right. It's ideal for presenting comparative analysis, categorized findings, or organized content groupings where you need to display multiple topics systematically across two parallel tracks."
+  },
+  {
+    "identifier": "2_11_list_and_bucket_buckets_of_topics",
+    "name": "Buckets of topics or insights, block arrows that bring attention to a datapoint and/or insight",
+    "description": "This slide template features a series of block arrows designed to highlight key topics, insights, or data points in a visually compelling way. The arrows draw attention to specific information while organizing content into distinct categories or \"buckets.\" It's ideal for presentations where you need to emphasize important findings, categorize insights, or guide the audience's focus to critical data points or conclusions."
+  },
+  {
+    "identifier": "2_12_list_and_bucket_key_statements_with",
+    "name": "Key statements with supporting icons and bullets and general considerations",
+    "description": "This slide template features key statements or talking points enhanced with supporting icons, bullet points, and additional contextual information. It's designed for presenting important concepts, recommendations, or strategic points while providing visual reinforcement through iconography. The template is ideal for executive summaries, strategy presentations, or highlighting critical considerations that require both textual detail and visual emphasis."
+  },
+  {
+    "identifier": "2_13_list_and_bucket_key_statements_with",
+    "name": "Key statements with supporting icons and bullets and general considerations",
+    "description": "This slide template is designed for presenting key information or important statements with visual support through icons and bullet points. It provides a clean layout that combines textual content with graphical elements to enhance comprehension and retention. Ideal for executive summaries, key findings presentations, or highlighting critical points that require both detailed explanations and visual emphasis."
+  },
+  {
+    "identifier": "2_14_list_and_bucket_list_with_2",
+    "name": "List with 2 levels of categorizations – rounded style",
+    "description": "This slide template presents a two-level hierarchical list with a modern rounded design aesthetic. It features organized categories and subcategories with placeholder text areas, making it ideal for presenting structured information, project breakdowns, or multi-tiered content classifications. The template is perfect for business presentations requiring clear visual organization of complex information with multiple classification levels."
+  },
+  {
+    "identifier": "2_15_list_and_bucket_list_with_3",
+    "name": "List with 3 levels of categorizations – rounded high contrast style",
+    "description": "This slide template features a three-level hierarchical list with a modern, rounded high-contrast design using blue and white colors. It's designed to present organized information with main categories, subcategories, and detailed items in a visually appealing format. Ideal for displaying structured data, product features, service offerings, or any content that requires clear categorical organization with emphasis on visual hierarchy."
+  },
+  {
+    "identifier": "2_16_list_and_bucket_list_with_3",
+    "name": "List with 3 levels of categorizations – square style",
+    "description": "This slide template provides a structured format for organizing information into three hierarchical levels using a clean, square-styled design. It features blue header sections on the left with corresponding blank content areas on the right for detailed information. This template is ideal for presenting categorized data, project breakdowns, organizational structures, or any content that requires clear multi-level classification and systematic presentation."
+  },
+  {
+    "identifier": "2_17_list_and_bucket_walkthrough_of_important",
+    "name": "Walkthrough of important categories with more statements than would fit on one page",
+    "description": "This template is designed for presenting comprehensive category overviews that contain extensive content requiring pagination or multiple sections. It features a structured layout with multiple numbered sections and statement blocks, making it ideal for detailed walkthroughs of complex topics, policy documents, or comprehensive reports where all key points need systematic presentation across organized segments."
+  },
+  {
+    "identifier": "2_18_list_and_bucket_walkthrough_of_important",
+    "name": "Walkthrough of important categories with more statements than would fit on one page",
+    "description": "This slide template is designed to present a comprehensive overview of multiple categories containing extensive information that exceeds typical single-slide capacity. It features a structured layout with multiple sections and subsections to systematically organize and display detailed categorical data or statements. This template is ideal for executive summaries, project reviews, or analytical presentations where thorough coverage of various topic areas is required across different segments."
+  },
+  {
+    "identifier": "2_19_list_and_bucket_walkthrough_of_important",
+    "name": "Walkthrough of important categories with more statements than would fit on one page",
+    "description": "This template is designed to present and organize extensive categorical data that exceeds the space limitations of a single slide. It provides a structured layout for displaying important categories with detailed statements or information that requires continuation across multiple slides or sections. This template is ideal for comprehensive presentations where thoroughness and complete information coverage are priorities over brevity."
+  },
+  {
+    "identifier": "2_20_list_and_bucket_walkthrough_of_important",
+    "name": "Walkthrough of important categories and sub-categories with more statements than would fit on one page",
+    "description": "This presentation slide template is designed for detailed category and subcategory walkthroughs when content exceeds the capacity of a single slide. It provides a structured format for presenting comprehensive breakdowns of complex topics or data sets that require multiple statements or detailed explanations. The template would be ideal for in-depth analysis presentations, detailed reports, or comprehensive overviews where thorough coverage of categories is essential."
+  },
+  {
+    "identifier": "2_21_list_and_bucket_walkthrough_of_important",
+    "name": "Walkthrough of important categories and sub-categories with more statements than would fit on one page",
+    "description": "This slide template provides a structured walkthrough format for presenting detailed categorical information that exceeds the capacity of a single slide. It features organized sections for categories and sub-categories with accompanying descriptive statements or bullet points. This template is ideal for comprehensive overviews, detailed process explanations, or multi-level content that requires systematic presentation across multiple sections."
+  },
+  {
+    "identifier": "2_22_list_and_bucket_walkthrough_of_important",
+    "name": "Walkthrough of important categories and sub-categories with more statements than would fit on one page",
+    "description": "This slide template provides a structured walkthrough format for presenting hierarchical information that exceeds single-page capacity. It appears designed to organize and display categories with their corresponding sub-categories in a clear, systematic layout. This template would be useful for comprehensive overviews, detailed breakdowns of complex topics, or multi-level data presentations where content needs to be methodically organized across multiple sections."
+  },
+  {
+    "identifier": "2_23_list_and_bucket_listing_topics_and",
+    "name": "Listing topics and next steps, with trackers",
+    "description": "This slide template is designed for project management and meeting documentation, featuring a structured list format with numbered items, task descriptions, and tracking indicators. It allows teams to organize topics, action items, or project phases with visual progress markers or status indicators next to each entry. The template is ideal for status meetings, project reviews, or workflow tracking presentations where clear accountability and progress visibility are essential."
+  },
+  {
+    "identifier": "2_24_list_and_bucket_listing_topics_with",
+    "name": "Listing topics with trackers",
+    "description": "This slide template is designed for presenting a structured list of topics or items with tracking capabilities. It features three main sections with bullet points and accompanying descriptive text, making it ideal for project updates, agenda items, or progress tracking presentations. The clean layout with consistent formatting makes it suitable for business meetings, project reviews, or educational content where organized information display with tracking elements is needed."
+  },
+  {
+    "identifier": "2_25_list_and_bucket_multiple_initiatives_or",
+    "name": "Multiple initiatives or aspects with trackers",
+    "description": "This slide template is designed for tracking and monitoring multiple projects, initiatives, or key aspects simultaneously. It features a vertical progress tracker or status indicator on the left side with color-coded elements (ranging from dark blue to bright purple/pink) alongside corresponding text fields for describing each initiative and its current status. This template is ideal for project management presentations, status reports, or executive dashboards where you need to provide a visual overview of progress across various workstreams or objectives."
+  },
+  {
+    "identifier": "2_26_list_and_bucket_buckets_with_a",
+    "name": "Buckets with a shared key takeaway",
+    "description": "This slide template is designed to present information organized into buckets or categories that share a common key takeaway or conclusion. It features numbered sections with space for detailed content under each bucket, making it ideal for comparing different approaches, options, or scenarios that lead to the same overarching insight. This format is particularly useful for strategic presentations, analysis summaries, or decision-making frameworks where multiple paths converge on a single recommendation."
+  },
+  {
+    "identifier": "2_28_list_and_bucket_listing_key_facts",
+    "name": "Listing key facts or topics belonging to two categories",
+    "description": "This slide template is designed for organizing and comparing information across two distinct categories or topics. It features a dual-column layout with blue headers labeled \"Benefit/Control\" on the left and \"Shortfall/Launch\" on the right, each containing bullet point areas for listing key facts, benefits, drawbacks, or other relevant details. This format is ideal for presenting comparative analyses, pros and cons discussions, or categorizing information during strategic planning sessions and decision-making presentations."
+  },
+  {
+    "identifier": "2_29_list_and_bucket_numbered_buckets_with",
+    "name": "Numbered buckets, with first one highlighted",
+    "description": "This template displays three numbered content buckets arranged horizontally, with the first bucket highlighted in purple while the other two remain in light blue. It's designed for presenting sequential information, processes, or options where you want to emphasize the first item or starting point. Perfect for step-by-step guides, feature comparisons, or any scenario requiring ordered content with selective highlighting."
+  },
+  {
+    "identifier": "2_30_list_and_bucket_listing_key_facts",
+    "name": "Listing key facts or topics belonging to categories – with a highlight to be detailed next",
+    "description": "This slide template is designed for categorizing and organizing information into distinct topic areas or themes. It features three columns with headers for different categories, allowing presenters to list key facts, topics, or data points under each section. The template includes a highlighting feature to emphasize specific items that will be discussed in more detail in subsequent slides, making it ideal for agenda setting, content organization, or comparative analysis presentations."
+  },
+  {
+    "identifier": "2_31_list_and_bucket_listing_key_facts",
+    "name": "Listing key facts or topics belonging to categories – with one that will not be discussed next",
+    "description": "This slide template is designed for presenting categorized information where the presenter wants to highlight that certain topics will be addressed while others will be deferred. It features a two-column layout with headers for \"What I intend\" and \"What I avoid\" along with space for bullet points or content under each category. This format is useful for setting clear expectations about discussion scope during presentations or training sessions."
+  },
+  {
+    "identifier": "2_32_list_and_bucket_listing_many_key",
+    "name": "Listing many key facts or topics belonging to categories",
+    "description": "This slide template is designed for organizing and presenting multiple key facts, topics, or information points across different categories. It features a structured layout with category headers and bulleted content sections, making it ideal for comprehensive overviews, classification systems, or detailed breakdowns of complex subjects. The template is particularly useful for educational presentations, project summaries, or any scenario requiring systematic organization of related information into distinct groups."
+  },
+  {
+    "identifier": "2_33_list_and_bucket_key_statements",
+    "name": "Key statements",
+    "description": "This slide template provides a structured layout for presenting three key statements or core messages. It features a clean design with three columns, each containing an icon, headline placeholder, and space for descriptive text. This template is ideal for executive summaries, strategic presentations, or highlighting the main takeaways from a business proposal or project overview."
+  },
+  {
+    "identifier": "2_34_list_and_bucket_key_points_or",
+    "name": "Key points or topics, with explanations",
+    "description": "This presentation slide template is designed for breaking down complex information into three digestible key points or topics. Each section features a circular icon with explanatory text below, making it ideal for summarizing main concepts, project phases, or strategic priorities. The template is perfect for executive summaries, project overviews, or educational presentations where clear, structured communication of multiple related points is essential."
+  },
+  {
+    "identifier": "2_36_list_and_bucket_key_points_with",
+    "name": "Key points with more explanation – boxy design",
+    "description": "This presentation slide template features a four-column layout with colorful header sections (purple, blue, teal, and gray) designed to organize and present key points with detailed explanations. Each column provides space for bullet points or detailed content under distinct category headings, making it ideal for comparing topics, outlining project phases, or presenting structured information in a visually organized format. The template is suitable for business presentations, project updates, or educational content where multiple related concepts need clear separation and explanation."
+  },
+  {
+    "identifier": "2_40_list_and_bucket_disaggregating_a_topic",
+    "name": "Disaggregating a topic along 2 dimensions with equal weight",
+    "description": "This slide template demonstrates how to analyze and break down a single topic across two different dimensions simultaneously, giving equal importance to both analytical perspectives. The template features a structured grid format with three columns (Dimension A, B, and C) and multiple rows for systematic comparison and categorization. It's designed for strategic planning sessions, research analysis, or project management scenarios where comprehensive multi-dimensional evaluation is needed."
+  },
+  {
+    "identifier": "2_41_list_and_bucket_disaggregating_a_topic",
+    "name": "Disaggregating a topic along 2 dimensions, boxy style",
+    "description": "This template provides a structured matrix format for breaking down a complex topic across two dimensions using a boxy, grid-based design. The layout features purple section headers on the left with corresponding rows and columns that allow for systematic categorization and analysis of content. It's ideal for organizing information, conducting comparative analysis, or presenting multi-dimensional frameworks where topics need to be examined from multiple perspectives simultaneously."
+  },
+  {
+    "identifier": "2_42_list_and_bucket_disaggregating_a_topic",
+    "name": "Disaggregating a topic along 2+1 dimensions with equal weight",
+    "description": "This slide template provides a framework for analyzing a topic across multiple dimensions with equal weighting. It features a structured matrix layout that allows presenters to systematically break down complex subjects into component parts across two or more analytical dimensions. This template is ideal for strategic analysis, comparative studies, or comprehensive topic examinations where each dimension requires equal consideration and detailed exploration."
+  },
+  {
+    "identifier": "3_6_logical_relationships_this_leads_to",
+    "name": "This leads to that – boxes that fit more content",
+    "description": "This template demonstrates a before-and-after comparison for optimizing content layout in presentation slides. It shows how to redesign boxes or containers to accommodate more content effectively, with a visual transition from the original layout on the left to the improved version on the right. Ideal for presenting design improvements, workflow optimizations, or process enhancements where space utilization is key."
+  },
+  {
+    "identifier": "3_7_logical_relationships_there_step_reasoning",
+    "name": "There step reasoning chain –boxes that fit more content",
+    "description": "This template features a three-step reasoning chain layout with expandable content boxes designed to accommodate more detailed information. Each step is represented by a distinct colored header box (dark blue, medium blue, and purple) with empty white content areas below for adding bullet points, text, or other supporting details. It's ideal for presenting logical progressions, process flows, or step-by-step explanations where each stage requires substantial content or explanation."
+  },
+  {
+    "identifier": "3_8_logical_relationships_two_factors_that",
+    "name": "Two factors that add app to one result, with evidence and explanations",
+    "description": "This template is designed to present two contributing factors that lead to a single outcome or result, with supporting evidence and explanations for each factor. The slide features three connected sections - two input factors on the left and right that feed into a central result area, allowing presenters to clearly demonstrate cause-and-effect relationships. It's ideal for analytical presentations, project reviews, or strategic planning where you need to show how multiple elements combine to produce a specific outcome."
+  },
+  {
+    "identifier": "3_9_logical_relationships_three_steps_reasoning",
+    "name": "Three steps reasoning chain – icons and arrows style",
+    "description": "This presentation slide template displays a three-step reasoning chain using numbered circular icons connected by directional arrows. The template is designed to show sequential processes, logical progressions, or step-by-step methodologies with placeholder text for each stage. It's ideal for illustrating workflows, decision-making processes, or any content that requires showing progression through three distinct phases."
+  },
+  {
+    "identifier": "3_10_logical_relationships_this_leads_to",
+    "name": "This leads to that – simple chevron and box for a single message",
+    "description": "This template features a simple chevron-style arrow flowing from left to right with three connected sections, designed to illustrate a single sequential process or cause-and-effect relationship. The layout uses a clean, minimalist design with light and dark blue color blocks to emphasize progression from one step to the next. It's ideal for presenting straightforward workflows, decision paths, or demonstrating how one concept leads to another outcome."
+  },
+  {
+    "identifier": "3_11_logical_relationships_separate_statements_to",
+    "name": "Separate statements to one conclusion",
+    "description": "This slide template is designed to consolidate multiple separate statements or points into a single unified conclusion. It features a left-to-right flow layout with individual statement boxes on the left side that funnel through an arrow into one conclusive statement box on the right. This template is ideal for presentations where you need to show how various findings, arguments, or data points lead to one overarching conclusion or recommendation."
+  },
+  {
+    "identifier": "3_12_logical_relationships_from_current_state",
+    "name": "From current state to future state: what will it look like – minimalist style",
+    "description": "This presentation slide template provides a minimalist visual framework for illustrating organizational transformation or change management processes. It features a simple before-and-after comparison layout with clean design elements to map current state versus future state scenarios. The template is ideal for strategic planning presentations, process improvement initiatives, or project roadmaps where clarity and simplicity are prioritized over complex visual elements."
+  },
+  {
+    "identifier": "3_13_logical_relationships_from_current_state",
+    "name": "From current state to future state: what will it look like – with aspects called out",
+    "description": "This slide template illustrates a transformation journey from current state to future state using a side-by-side comparison format with connecting arrows. The left side displays current state elements in dark blue, while the right side shows future state outcomes in light blue, with zigzag arrows indicating the transition process. It's designed for strategic planning presentations, change management initiatives, or project roadmaps where organizations need to visualize the evolution from their existing situation to desired outcomes."
+  },
+  {
+    "identifier": "3_14_logical_relationships_contrasting_future_and",
+    "name": "Contrasting future and current – minimalist style",
+    "description": "This minimalist comparison slide template presents a side-by-side contrast between current state and future state scenarios. The template features two columns with bullet points and circular indicators, designed for clearly highlighting differences or transformations between present and desired future conditions. It's ideal for strategic presentations, change management discussions, or project planning where you need to illustrate the journey from current reality to future vision."
+  },
+  {
+    "identifier": "3_15_logical_relationships_contrasting_what_we",
+    "name": "Contrasting what we have now and what we’ll have in the future – w checkmarks to convey differences at a glance",
+    "description": "This slide template is designed for comparing current state versus future state scenarios using a two-column layout. It features checkmark indicators to visually highlight key differences and improvements between \"what we have now\" and \"what we'll have in the future.\" This format is ideal for transformation roadmaps, strategic planning presentations, or project proposals where you need to clearly demonstrate the value of change initiatives."
+  },
+  {
+    "identifier": "3_16_logical_relationships_weighing_two_options",
+    "name": "Weighing two options – minimalist style",
+    "description": "This minimalist comparison slide template is designed for presenting two alternatives or options side-by-side in a clean, professional format. The template features two distinct sections (likely labeled as Option A and Option B) with structured content areas and contrasting blue color schemes to clearly differentiate between choices. It's ideal for business presentations, decision-making meetings, or proposal comparisons where you need to highlight key differences or similarities between two solutions, products, or strategies."
+  },
+  {
+    "identifier": "3_17_logical_relationships_this_is_in",
+    "name": "This is in conflict with that – chevrons with big statements",
+    "description": "This template features two opposing chevron shapes designed to present contrasting viewpoints or conflicting statements. The dark blue and light blue chevrons face each other with space for bullet points describing opposing positions, arguments, or competing elements. It's ideal for presenting debates, comparative analyses, or highlighting contradictory aspects of a business decision or strategy."
+  },
+  {
+    "identifier": "3_18_logical_relationships_this_is_in",
+    "name": "This is in conflict with that – boxes that fit more content",
+    "description": "This slide template is designed for presenting conflicting viewpoints or comparing contrasting perspectives on a topic. It features two opposing sections with arrow-like shapes pointing toward each other, emphasizing the conflict or tension between the concepts. This layout is ideal for highlighting disagreements, showing pros and cons, or illustrating competing arguments in business presentations or analytical discussions."
+  },
+  {
+    "identifier": "3_19_logical_relationships_conflicting_statements",
+    "name": "Conflicting statements",
+    "description": "This presentation slide template is designed to illustrate opposing viewpoints or contradictory positions on a topic. It features a split-screen layout with contrasting arrows pointing toward each other, allowing users to present conflicting statements, arguments, or perspectives side by side. This template is ideal for highlighting debates, comparing different stakeholder positions, or presenting contrasting research findings in business, academic, or analytical presentations."
+  },
+  {
+    "identifier": "3_20_logical_relationships_linear_causation_minimalist",
+    "name": "Linear causation, minimalist style",
+    "description": "This slide template presents a minimalist three-step linear process flow with sequential arrows connecting each stage. The clean, simple design focuses on showing cause-and-effect relationships or step-by-step progressions without visual clutter. It's ideal for presenting straightforward workflows, decision sequences, or any process that follows a clear linear progression from start to finish."
+  },
+  {
+    "identifier": "3_21_logical_relationships_circular_causation_minimalist",
+    "name": "Circular causation, minimalist style",
+    "description": "This slide template illustrates circular causation or feedback loops using a minimalist four-step circular design. It features four numbered steps arranged in a clockwise pattern with arrows connecting each stage, allowing users to demonstrate cyclical processes, cause-and-effect relationships, or iterative workflows. Ideal for presenting business processes, project cycles, or any systematic approach where outcomes influence subsequent inputs."
+  },
+  {
+    "identifier": "3_22_logical_relationships_flywheel_continuous_circular_causation",
+    "name": "Flywheel/continuous circular causation",
+    "description": "This slide template presents the concept of flywheel or continuous circular causation using a circular diagram with interconnected segments on the left side and corresponding explanatory text points on the right. It's designed to illustrate cyclical business processes, feedback loops, or self-reinforcing systems where each element drives the next in a continuous cycle. This template is ideal for strategic presentations, business model explanations, or process improvement discussions where you need to demonstrate how different components work together to create momentum and sustainable growth."
+  },
+  {
+    "identifier": "3_24_logical_relationships_filtering_layers",
+    "name": "Filtering layers - emphasizing the filtering process",
+    "description": "This slide template illustrates a multi-layered filtering process using a visual funnel metaphor with blue and purple horizontal bars and downward-pointing arrows. It's designed to show how information, data, or processes move through sequential filtering stages, with each layer representing a different filter or screening criterion. This template would be ideal for presentations explaining data processing workflows, quality control processes, candidate screening procedures, or any systematic filtering methodology."
+  },
+  {
+    "identifier": "3_25_logical_relationships_filtering_layers",
+    "name": "Filtering layers – emphasizing the end result",
+    "description": "This template illustrates a multi-layered filtering or screening process using a funnel-like visual metaphor with blue gradient layers. It shows how multiple filtering stages progressively narrow down inputs to achieve a final concentrated output or result. This slide is ideal for presenting selection processes, quality control systems, data refinement workflows, or any multi-stage elimination process in business or technical presentations."
+  },
+  {
+    "identifier": "3_26_logical_relationships_filtering_layers",
+    "name": "Filtering layers - emphasizing who/what is left",
+    "description": "This slide template illustrates a filtering or layering process using a funnel-like diagram with multiple tiers. It's designed to show how elements are progressively filtered or reduced at each level, emphasizing what remains rather than what's been removed. This template would be useful for presentations on selection processes, qualification criteria, or any multi-stage filtering system where the focus is on the survivors or final outcomes."
+  },
+  {
+    "identifier": "3_27_logical_relationships_an_action_gaining",
+    "name": "An action gaining momentum through layers",
+    "description": "This slide template illustrates a layered progression concept with increasing intensity or momentum across multiple tiers. It features four horizontal layers in varying shades of blue/purple with arrow elements, suggesting forward movement or cascading effects through different organizational levels or process stages. This template is ideal for presenting strategic initiatives, change management processes, or multi-level implementation plans where actions build momentum as they progress through different layers of an organization or system."
+  },
+  {
+    "identifier": "3_28_logical_relationships_filtering_with",
+    "name": "Filtering – with dots",
+    "description": "This slide template demonstrates different dot-based filtering or visualization patterns, showing various grid configurations with dots of different densities and arrangements. It appears to be designed for presentations explaining data filtering concepts, pattern recognition, or visual design principles. The template would be useful for technical presentations in data science, user interface design, or system architecture discussions where progressive filtering or pattern variations need to be illustrated."
+  },
+  {
+    "identifier": "3_29_logical_relationships_contraction_of_a",
+    "name": "Contraction of a trend/product/characteristic and what drives it – with highlight",
+    "description": "This funnel visualization template demonstrates the progressive contraction or decline of a trend, product, or characteristic across multiple stages. The design features a highlighted middle section to emphasize a critical stage in the process, with placeholder text for customizable content at each funnel level. It's ideal for presenting market analysis, product lifecycle data, conversion processes, or any sequential decline pattern where one particular stage requires special attention."
+  },
+  {
+    "identifier": "3_30_logical_relationships_funnel_with_filtering",
+    "name": "Funnel with filtering criteria and how they lead to something contracting",
+    "description": "This slide template presents a funnel diagram designed to illustrate how filtering criteria progressively narrow down to a contracting outcome. The template features multiple funnel stages with placeholder text boxes for describing each filtering step and criteria. It's ideal for presentations explaining selection processes, qualification workflows, or any scenario where multiple criteria systematically reduce options to reach a final contracted or selected result."
+  },
+  {
+    "identifier": "3_31_logical_relationships_expansion_of_a",
+    "name": "Expansion of a trend/product/characteristic and what drives the expansion",
+    "description": "This slide template is designed to illustrate the expansion or growth of a trend, product, or characteristic over time. It features a visual progression using increasingly larger blue chevron or arrow shapes to represent stages of expansion, with text boxes below to describe driving factors or key details for each stage. This template is ideal for presenting growth strategies, market expansion phases, trend evolution, or any process that involves progressive development with identifiable drivers or catalysts."
+  },
+  {
+    "identifier": "3_32_logical_relationships_expansion_of_a",
+    "name": "Expansion of a trend/product/characteristic and what drives it – with highlight",
+    "description": "This template presents a progression of interconnected elements across four sequential stages, with the final stage visually emphasized through darker purple highlighting. It's designed to showcase the evolution or expansion of a trend, product feature, or business characteristic while identifying the key drivers behind each phase. The template is ideal for strategic presentations explaining growth trajectories, process developments, or cause-and-effect relationships where the final outcome deserves special attention."
+  },
+  {
+    "identifier": "3_33_logical_relationships_shrinking_inflection_point",
+    "name": "Shrinking, inflection point, and then expansion",
+    "description": "This slide template illustrates a business transformation or strategic change process using a visual funnel or hourglass design that narrows to a central inflection point before expanding again. The template is structured to show six stages of progression - three leading to the inflection point and three following it - with space for detailed explanations under each stage. It's ideal for presenting organizational change initiatives, business turnarounds, or strategic pivot presentations where you need to demonstrate a critical transition period between contraction and growth phases."
+  },
+  {
+    "identifier": "3_34_logical_relationships_progression_through_levels",
+    "name": "Progression through levels with decreasing volume, quantity, or number of options",
+    "description": "This slide template illustrates a funnel or inverted pyramid progression showing how volume, quantity, or options systematically decrease across multiple levels. It features a structured visual framework with labeled stages and accompanying text areas for detailed explanations. This template is ideal for presenting processes like sales funnels, filtering systems, hierarchical structures, or any workflow where elements are progressively reduced or refined at each stage."
+  },
+  {
+    "identifier": "3_35_logical_relationships_related_levels_that",
+    "name": "Related levels that build on each other but become gradually rarer or more high level",
+    "description": "This template visualizes a hierarchical progression of levels or stages that build upon each other while decreasing in frequency or increasing in difficulty. The pyramid structure effectively illustrates how each tier becomes progressively rarer or more advanced than the previous one. This slide is ideal for presenting skill development frameworks, organizational hierarchies, or any sequential process where higher levels represent increased complexity or exclusivity."
+  },
+  {
+    "identifier": "3_36_logical_relationships_pyramid_metaphor_variation",
+    "name": "Pyramid metaphor variation for when level names are too long to fit",
+    "description": "This slide template presents a pyramid structure with horizontal level labels positioned outside the pyramid shape to accommodate lengthy text descriptions. It's designed for hierarchical content where traditional in-pyramid labeling would be cramped or illegible due to long level names. This variation is ideal for organizational charts, process flows, or classification systems that require detailed descriptive text for each hierarchical level."
+  },
+  {
+    "identifier": "3_37_logical_relationships_pyramid_principle",
+    "name": "Pyramid principle",
+    "description": "This slide template demonstrates the pyramid principle framework for structuring information and communication. It features a hierarchical pyramid diagram with a top-level key message followed by three supporting arguments, each backed by multiple supporting details or evidence points. This template is ideal for organizing presentations, reports, or proposals where you need to present a clear main point supported by logical, structured reasoning."
+  },
+  {
+    "identifier": "3_40_logical_relationships_4_part_of",
+    "name": "4 part of a whole, that should be connecting but are not quite coming together",
+    "description": "This slide template features a four-part circular diagram with segments separated by white gaps, illustrating components that are related but not fully integrated or aligned. The design is ideal for presenting challenges, missed opportunities, or areas where better coordination is needed between different elements of a strategy, team, or process. It's particularly useful for problem identification presentations, gap analyses, or when discussing the need for improved integration across departments or initiatives."
+  },
+  {
+    "identifier": "3_46_logical_relationships_pros_and_cons",
+    "name": "Pros and cons of two or more options or alternatives – emphasis on the options, rounded style",
+    "description": "This slide template is designed for comparing the advantages and disadvantages of multiple options or alternatives in decision-making processes. It features a clean layout with rounded design elements and uses visual indicators (likely checkmarks and X marks) to clearly distinguish between pros and cons. The template is ideal for business presentations, project evaluations, or strategic planning sessions where teams need to weigh different choices systematically."
+  },
+  {
+    "identifier": "3_47_logical_relationships_benefits_and_downsides",
+    "name": "Benefits and downsides – emphasis on the benefits and downsides, square style",
+    "description": "This slide template presents a structured comparison format for analyzing benefits and downsides of a topic or decision. It features a clean, square-style design with two distinct sections (likely using contrasting colors) to clearly separate positive and negative aspects. The template is ideal for strategic presentations, decision-making processes, or analytical reports where stakeholders need to evaluate pros and cons in a visually organized manner."
+  },
+  {
+    "identifier": "3_48_logical_relationships_question_with_options",
+    "name": "Question with options and implications",
+    "description": "This template is designed for presenting a question or problem statement alongside multiple response options and their corresponding implications or outcomes. It features a structured layout with the main question highlighted in a blue section on the left, followed by organized columns for options and their associated implications. This format is ideal for decision-making presentations, strategic planning sessions, or scenario analysis where you need to clearly outline choices and their potential consequences."
+  },
+  {
+    "identifier": "3_49_logical_relationships_contrasting_two_options",
+    "name": "Contrasting two options based on the same set of dimensions – boxy style",
+    "description": "This slide template is designed for comparing two alternatives or options across multiple identical criteria or dimensions using a structured, box-based layout. The template features parallel columns with matching evaluation categories, making it ideal for side-by-side analysis of products, solutions, strategies, or proposals. It's particularly useful for decision-making presentations where stakeholders need to evaluate options against the same set of standardized criteria."
+  },
+  {
+    "identifier": "3_50_logical_relationships_contrasting_two_options",
+    "name": "Contrasting two options – minimalist style",
+    "description": "This slide template is designed for comparing two alternatives or options using a clean, minimalist design approach. It features two columns (Option A and Option B) with bullet points for listing key features, benefits, or characteristics of each choice. The template is ideal for decision-making presentations, product comparisons, or strategic planning sessions where a clear visual contrast between two possibilities is needed."
+  },
+  {
+    "identifier": "3_51_logical_relationships_contrasting_two_options",
+    "name": "Contrasting two options based on the same set of dimensions – rounded style with one option favored",
+    "description": "This slide template is designed for comparing two alternatives or options across the same set of evaluation criteria or dimensions. It features a rounded design aesthetic with visual emphasis on one option to indicate a preferred or recommended choice. The template is ideal for decision-making presentations, product comparisons, or strategic evaluations where you need to present a balanced analysis while highlighting the favored alternative."
+  },
+  {
+    "identifier": "3_52_logical_relationships_weighing_two_options",
+    "name": "Weighing two options with different benefits",
+    "description": "This slide template is designed for presenting decision-making scenarios where two alternatives need to be compared. It features a balanced scale visualization with two options positioned on either side, allowing presenters to list and weigh the distinct benefits of each choice. This template is ideal for strategic planning sessions, business decisions, or any situation requiring a clear comparative analysis of competing alternatives."
+  },
+  {
+    "identifier": "3_53_logical_relationships_contrasting_multiple_options",
+    "name": "Contrasting multiple options that belong to different categories",
+    "description": "This slide template provides a structured comparison framework for evaluating multiple options or alternatives across different categories or criteria. It features a clean table format with distinct header rows and organized columns that allow for systematic side-by-side analysis of various choices. This template is ideal for decision-making presentations, product comparisons, or strategic evaluations where stakeholders need to assess different options against multiple factors or dimensions."
+  },
+  {
+    "identifier": "3_54_logical_relationships_comparing_items_by",
+    "name": "Comparing items by available features",
+    "description": "This is a feature comparison template designed to evaluate and compare multiple items or products across different available features or criteria. The template uses a structured table format with rows for different items and columns for various features, likely using icons or indicators to show which features are available for each item. It's ideal for product selection, vendor comparisons, or decision-making processes where stakeholders need to quickly assess and contrast multiple options based on specific capabilities or characteristics."
+  },
+  {
+    "identifier": "3_55_logical_relationships_evaluating_items",
+    "name": "Evaluating items – with Harvey balls added as icons",
+    "description": "This slide template is designed to evaluate multiple items or options across several criteria using Harvey balls (filled circle icons) to indicate performance levels or ratings. The left column lists the items being evaluated, while subsequent columns represent different evaluation criteria, with Harvey balls providing a quick visual assessment of how each item performs in each category. This format is ideal for comparative analysis, decision-making presentations, or performance scorecards where stakeholders need to quickly assess relative strengths and weaknesses across multiple dimensions."
+  },
+  {
+    "identifier": "3_56_logical_relationships_coverage_matrix",
+    "name": "Coverage matrix – comparing multiple options against multiple dimensions or features",
+    "description": "This slide template presents a coverage matrix for systematically comparing multiple options or alternatives against various evaluation criteria or feature dimensions. The matrix uses a grid format with options listed across the top and evaluation dimensions down the left side, with dots or indicators showing coverage or performance levels. It's ideal for strategic decision-making processes, vendor comparisons, or feature analysis where stakeholders need to visualize how different alternatives stack up across multiple important factors."
+  },
+  {
+    "identifier": "4_6_matrices_quadrants_canvases_and_trees_boxes_with_proximity",
+    "name": "Boxes with proximity indicating relatedness",
+    "description": "This template demonstrates the visual design principle of proximity to show relationships between content elements. It features a layout with boxes positioned at varying distances from each other, where closer proximity indicates stronger relatedness between the grouped items. This slide is ideal for teaching design principles, organizing related information, or explaining how spatial relationships can communicate logical connections in presentations and user interfaces."
+  },
+  {
+    "identifier": "4_7_matrices_quadrants_canvases_and_trees_boxes_with_proximity",
+    "name": "Boxes with proximity indicating relatedness to item in the middle",
+    "description": "This template features a central layout with multiple boxes positioned around a middle focal point, where proximity indicates the strength of relationship or relevance to the central item. It's designed for organizing and visualizing hierarchical relationships, dependencies, or levels of connection between concepts. Ideal for presenting organizational structures, mind mapping exercises, or illustrating how various elements relate to a core topic or decision point."
+  },
+  {
+    "identifier": "4_8_matrices_quadrants_canvases_and_trees_business_model_canvas",
+    "name": "Business Model Canvas",
+    "description": "This template provides a structured framework for developing and visualizing business models using the popular Business Model Canvas methodology. The slide features nine key building blocks arranged in a logical layout, allowing teams to systematically map out value propositions, customer segments, revenue streams, and other essential business components. It's ideal for strategic planning sessions, startup pitch development, or business model analysis and refinement workshops."
+  },
+  {
+    "identifier": "4_9_matrices_quadrants_canvases_and_trees_layered_system_components",
+    "name": "Layered system components and how they build on each other",
+    "description": "This slide template illustrates a layered system architecture, showing how different components or modules build upon each other in a hierarchical structure. The template features a multi-level diagram with interconnected boxes that demonstrate dependencies and relationships between system layers. It's ideal for technical presentations, software architecture discussions, or explaining complex systems where understanding the foundational relationships between components is crucial."
+  },
+  {
+    "identifier": "4_11_matrices_quadrants_canvases_and_trees_4_elements_framework",
+    "name": "4 elements framework like SWOT, minimalist high contrast style",
+    "description": "This presentation slide template features a four-quadrant framework similar to SWOT analysis, designed with a minimalist high-contrast style using blue and purple colors against a dark background. The template includes space for headings in each quadrant along with descriptive text sections positioned around the central framework. It's ideal for strategic planning presentations, business analysis, or any scenario requiring a structured four-part comparison or evaluation framework."
+  },
+  {
+    "identifier": "4_12_matrices_quadrants_canvases_and_trees_4_elements_framework",
+    "name": "4 elements framework like SWOT, with icons",
+    "description": "This slide template presents a four-element strategic analysis framework similar to SWOT, featuring four colored squares arranged in a 2x2 grid with accompanying icons and text placeholders. Each quadrant includes space for detailed descriptions and bullet points, making it ideal for business strategy presentations, competitive analysis, or organizational assessments. The template provides a structured format for analyzing internal and external factors affecting a business or project."
+  },
+  {
+    "identifier": "4_13_matrices_quadrants_canvases_and_trees_matrix_with_quadrants",
+    "name": "Matrix with quadrants and icons (e.g., Customer Value Matrix), boxy, minimalist style",
+    "description": "This slide template presents a 2x2 matrix framework with a clean, minimalist design featuring colored quadrants and placeholder icons. The template is ideal for displaying strategic analysis models such as customer value matrices, portfolio assessments, or decision-making frameworks. It's commonly used in business presentations to categorize and compare different elements across two key dimensions in a visually clear and professional manner."
+  },
+  {
+    "identifier": "4_14_matrices_quadrants_canvases_and_trees_matrix_with_quadrants",
+    "name": "Matrix with quadrants and icons (e.g., Customer Value Matrix), rounded style",
+    "description": "This slide template features a 2x2 matrix with rounded corners designed for categorizing and analyzing concepts across two dimensions. Each quadrant contains placeholder icons and text areas, making it ideal for frameworks like customer value analysis, risk assessment, or strategic planning models. The clean, modern design with blue accent colors makes it suitable for business presentations where you need to visually organize and compare different categories or segments."
+  },
+  {
+    "identifier": "4_15_matrices_quadrants_canvases_and_trees_matrix_categorization_avoiding",
+    "name": "Matrix categorization, avoiding “top right quadrant” preference, for more nuanced strategy (e.g. GE-McKinsey 9)",
+    "description": "This slide presents a matrix categorization approach using the GE-McKinsey 9-box model to avoid oversimplified \"top right quadrant\" thinking and enable more nuanced strategic analysis. It demonstrates how to map business units or initiatives across multiple dimensions beyond simple high/low classifications. This template is ideal for strategic planning sessions, portfolio reviews, and business unit prioritization exercises where complex decision-making requires sophisticated analytical frameworks."
+  },
+  {
+    "identifier": "4_16_matrices_quadrants_canvases_and_trees_matrix_categorization_with",
+    "name": "Matrix categorization, with “top right quadrant” as preference (e.g., for prioritization)",
+    "description": "This template displays a 2x2 matrix categorization framework designed for prioritization exercises. The visual emphasizes the top-right quadrant as the preferred or optimal zone, with distinct color coding to highlight different priority levels across all four quadrants. It's ideal for strategic planning presentations where items or initiatives need to be evaluated and ranked based on two key criteria."
+  },
+  {
+    "identifier": "4_17_matrices_quadrants_canvases_and_trees_matrix_with_multiple",
+    "name": "Matrix with multiple segments",
+    "description": "This presentation slide template features a structured matrix layout designed to organize and compare information across multiple segments or categories. The template includes a grid format with rows and columns that can accommodate various data points, metrics, or content areas for systematic analysis. It's ideal for strategic planning presentations, competitive analysis, product comparisons, or any scenario requiring clear categorization and cross-referencing of multiple variables or segments."
+  },
+  {
+    "identifier": "4_18_matrices_quadrants_canvases_and_trees_matrix_with_multiple",
+    "name": "Matrix with multiple segments - combined with a heatmap",
+    "description": "This slide template presents a matrix visualization that combines multiple data segments with heatmap functionality, using color intensity to represent data values across different categories. The matrix format allows for easy comparison of multiple variables or segments simultaneously, with darker blue shades typically indicating higher values or stronger relationships. This template is ideal for displaying complex datasets, performance metrics across different business units, or comparative analysis where both categorical relationships and quantitative values need to be communicated visually."
+  },
+  {
+    "identifier": "4_19_matrices_quadrants_canvases_and_trees_cross_impact_analysis",
+    "name": "Cross impact analysis – horizontal order",
+    "description": "This presentation slide template provides a structured framework for conducting cross-impact analysis using a horizontal matrix layout. The template features color-coded sections (purple, blue, and light blue) with placeholder text areas for analyzing the relationships and interdependencies between different factors or variables. It's designed for strategic planning sessions, risk assessment meetings, or research presentations where teams need to systematically evaluate how various elements influence each other within a system or project."
+  },
+  {
+    "identifier": "4_20_matrices_quadrants_canvases_and_trees_cross_impact_analysis",
+    "name": "Cross impact analysis – vertical order",
+    "description": "This slide template presents a cross-impact analysis matrix organized in vertical order, designed to systematically evaluate the relationships and influences between different factors, variables, or elements within a project or system. The matrix format allows users to map how each element impacts others, with color-coded sections (purple, blue, and white) to categorize different types of impacts or priority levels. It's ideal for strategic planning, risk assessment, stakeholder analysis, or any scenario where understanding interdependencies and cascading effects is crucial for decision-making."
+  },
+  {
+    "identifier": "5_7_metaphors_mountain_metaphors_with",
+    "name": "Mountain metaphors with descriptions",
+    "description": "This slide template uses mountain metaphor graphics to present three key concepts or achievements in a visually compelling way. Each triangular mountain shape contains descriptive text and appears designed for showcasing progressive milestones, company values, or strategic pillars. It's ideal for business presentations where you want to emphasize growth, challenges overcome, or foundational elements using the powerful symbolism of mountain peaks."
+  },
+  {
+    "identifier": "5_8_metaphors_mountain_metaphors_with",
+    "name": "Mountain metaphors with highlight on what will be detailed next",
+    "description": "This slide template uses a mountain metaphor to visualize a progressive journey or hierarchy across three key topics or phases. The rightmost mountain peak is highlighted in purple to indicate the focus area that will be detailed in upcoming slides, while the other peaks remain in darker blue. It's ideal for presentations that need to show progression, priorities, or upcoming content focus within a structured framework."
+  },
+  {
+    "identifier": "5_9_metaphors_mountain_metaphors_with",
+    "name": "Mountain metaphors with highlight on what will be detailed next - contrast",
+    "description": "This slide template uses a mountain metaphor to illustrate three hierarchical concepts or stages, with the third mountain prominently highlighted in purple to indicate the focus of upcoming content. It's designed to show progression or comparison between different elements while creating visual emphasis on the topic that will be detailed next. This template is ideal for presentations where you need to establish context by showing multiple concepts but want to clearly signal which one will be the main focus of subsequent slides."
+  },
+  {
+    "identifier": "5_10_metaphors_cross_roads_making",
+    "name": "Cross-roads – making a decision, w emphasis on the tradeoffs",
+    "description": "This slide template is designed for presenting decision-making scenarios where multiple options must be evaluated against their trade-offs. It features a crossroads-style diagram that visually represents different paths or choices, with emphasis on highlighting the pros, cons, and trade-offs associated with each option. This template is ideal for strategic planning presentations, business case evaluations, or any situation where stakeholders need to understand the implications of different decision paths."
+  },
+  {
+    "identifier": "5_11_metaphors_cross_roads_making",
+    "name": "Cross-roads – making a decision, stressing the options, with one preferred",
+    "description": "This template presents a crossroads decision-making scenario using a visual metaphor of interconnected blocks or steps, with one option highlighted in bright purple to indicate the preferred choice. The design emphasizes the decision-making process by showing multiple pathways while clearly distinguishing the recommended option through color contrast. This slide is ideal for strategic presentations, project planning meetings, or any situation where you need to present multiple options while advocating for a specific course of action."
+  },
+  {
+    "identifier": "5_13_metaphors_two_pillars_completing",
+    "name": "Two pillars completing or sustaining a third, with descriptions",
+    "description": "This slide template uses a triangular diagram to illustrate the relationship between three interconnected elements, with two foundational pillars supporting or completing a third element at the top. The design includes space for descriptions of each component and explanatory text about their interdependencies. It's ideal for presenting strategic frameworks, foundational concepts, or showing how two key factors work together to achieve a primary objective."
+  },
+  {
+    "identifier": "5_14_metaphors_breaking_down_a",
+    "name": "Breaking down a topic into its pillars",
+    "description": "This slide template is designed to break down a complex topic or strategy into four foundational pillars or key components. It features a hierarchical layout with a main topic at the top and four circular elements representing the core pillars below, making it ideal for presenting strategic frameworks, project components, or organizational structures in a clear, visually organized manner."
+  },
+  {
+    "identifier": "5_15_metaphors_house_metaphor",
+    "name": "House metaphor – topics with a common theme and foundation",
+    "description": "This slide presents a house metaphor template for organizing related topics under a common theme and foundation. The visual features a house structure with three circular elements in the main body and a text section on the right side with multiple bullet points. It's ideal for presentations where you need to group concepts, ideas, or initiatives that share fundamental principles or support a central theme."
+  },
+  {
+    "identifier": "5_16_metaphors_simple_strategy_temple",
+    "name": "Simple strategy temple",
+    "description": "This slide template presents a simple strategy framework using a temple or house structure metaphor to organize strategic elements. The template features a triangular roof at the top for vision or mission, supported by four pillars representing key strategic components, all built on a foundational base. It's designed for strategic planning sessions, business reviews, or organizational alignment meetings where teams need to visualize and structure their core strategic elements in a clear, hierarchical format."
+  },
+  {
+    "identifier": "5_17_metaphors_simple_strategy_temple",
+    "name": "Simple strategy temple",
+    "description": "This slide template presents a strategic framework visualization using a temple or house-like structure with multiple foundational pillars. It's designed for organizing and presenting strategic elements, goals, or business components in a hierarchical format with supporting pillars beneath an overarching objective. Ideal for strategic planning sessions, business reviews, or framework presentations where multiple elements need to be shown supporting a central strategy or vision."
+  },
+  {
+    "identifier": "5_18_metaphors_complex_strategy_temple",
+    "name": "Complex strategy temple",
+    "description": "This template presents a strategic framework organized in a hierarchical \"temple\" structure with multiple tiers of blue-colored boxes representing different strategic components or pillars. It's designed for displaying comprehensive organizational strategies, showing how various strategic elements interconnect and support each other across different levels. This template is ideal for strategic planning presentations, business reviews, or executive briefings where you need to illustrate the relationship between high-level strategy and supporting initiatives."
+  },
+  {
+    "identifier": "5_23_metaphors_forces_or_trends",
+    "name": "Forces or trends, with each going further than the other – with an icons representing each",
+    "description": "This presentation slide template is designed to showcase progressive forces or trends that build upon each other in increasing intensity or scope. It features a cascading arrow design with three levels (Trend 1, Trend 2 description, and Trend 3 description) accompanied by icons to visually represent each trend. This template is ideal for illustrating escalating market forces, evolving business strategies, or sequential developmental phases where each stage amplifies the previous one."
+  },
+  {
+    "identifier": "5_24_metaphors_forces_or_trends",
+    "name": "Forces or trends, with each going further than the other – with trackers on which one to deep dive in next",
+    "description": "This presentation slide template is designed to analyze and compare multiple forces or trends to determine which should be prioritized for deeper investigation. It features a structured format with three numbered description fields and visual trackers to help teams evaluate competing priorities or emerging trends. The template is ideal for strategic planning sessions, trend analysis meetings, or decision-making processes where organizations need to systematically assess and rank different market forces or business trends."
+  },
+  {
+    "identifier": "5_25_metaphors_forces_or_trends",
+    "name": "Forces or trends all leading to one eventual outcome",
+    "description": "This slide template presents a convergence model showing multiple forces or trends that lead to a single eventual outcome. It features numbered input arrows on the left side (labeled \"Force 1,\" \"Force 2,\" etc.) that point toward a unified result box on the right. This template is ideal for strategic presentations, root cause analysis, or demonstrating how various factors contribute to a common goal or consequence."
+  },
+  {
+    "identifier": "5_26_metaphors_efforts_or_trends",
+    "name": "Efforts or trends, all being blocked by one barrier",
+    "description": "This slide template is designed to illustrate how multiple efforts, trends, or initiatives are all being hindered by a single common barrier or obstacle. It features a visual layout with three trend descriptions on the left side and a central barrier element that blocks them, with explanatory text on the right. This template is ideal for problem identification presentations, root cause analyses, or strategic planning sessions where you need to highlight how one key issue is preventing progress across multiple areas."
+  },
+  {
+    "identifier": "5_27_metaphors_efforts_or_trends",
+    "name": "Efforts or trends, with only the last one surpassing the barrier",
+    "description": "This slide template illustrates a progression of multiple efforts or trends represented by horizontal bars, with only the final one successfully exceeding a defined threshold or barrier. It's designed to show comparative performance, breakthrough moments, or scenarios where repeated attempts finally achieve success. This template is ideal for presentations about product development milestones, performance metrics, or any situation where sustained effort eventually leads to breaking through limitations."
+  },
+  {
+    "identifier": "5_28_metaphors_threatening_trends_all",
+    "name": "Threatening trends, all being held back by one force/dam",
+    "description": "This slide template is designed to illustrate how multiple threatening trends or negative forces are being contained or prevented by a single barrier or intervention. It features three blue arrows on the left representing different threats, pointing toward a central dam-like barrier that blocks their progression, with explanatory text on the right describing the protective mechanism. This layout is ideal for business presentations discussing risk management, crisis prevention, or situations where one key factor is holding back multiple challenges."
+  },
+  {
+    "identifier": "5_29_metaphors_multiple_trends_from",
+    "name": "Multiple trends from two directions putting pressure towards something we care about",
+    "description": "This slide template illustrates converging pressures or trends from two opposing directions that impact a central concern or objective. It uses directional arrows pointing toward a middle element to visually represent how multiple forces or factors create pressure on something important to the organization. This template is ideal for strategic presentations discussing challenges, market forces, or competing priorities that require careful navigation."
+  },
+  {
+    "identifier": "5_30_metaphors_2_forces_putting",
+    "name": "2 forces putting pressure on something we care about – high contrast, minimalistic style",
+    "description": "This template visualizes opposing forces or pressures acting on a central concept, using a minimalistic design with high contrast colors. The slide features two arrow-like shapes pointing toward a central circular element, with text placeholders for describing \"What is this force of pressure\" on both sides and \"What is being put under pressure\" in the center. It's ideal for presenting competitive analysis, market pressures, conflicting priorities, or any scenario where two forces are impacting a key subject matter."
+  },
+  {
+    "identifier": "5_31_metaphors_2_forces_putting",
+    "name": "2 forces putting pressure on something we care about – airy style",
+    "description": "This slide template illustrates two opposing forces creating pressure on a central element of importance. It features a visual diagram with arrows pointing toward a central blue circle, designed to show tension or competing pressures affecting a key issue, concern, or objective. This template is ideal for presenting challenges, conflicts, or decision-making scenarios where multiple factors are at play."
+  },
+  {
+    "identifier": "5_32_metaphors_4_forces_putting",
+    "name": "4 forces putting pressure on something we care about – airy style",
+    "description": "This template presents a four-force analysis framework for examining pressures or challenges affecting a central subject of concern. It features a clean, minimalist design with a central circle representing the focal point and four arrows pointing inward to illustrate different pressure sources. The template is ideal for strategic planning presentations, problem analysis, or stakeholder discussions where you need to visualize multiple forces impacting a key issue, initiative, or business area."
+  },
+  {
+    "identifier": "5_34_metaphors_pieces_of_the",
+    "name": "Pieces of the puzzle that fit together",
+    "description": "This slide template uses a puzzle piece metaphor to illustrate how four different components or strategies interconnect to form a complete solution. Each colored puzzle piece contains descriptive text explaining a specific element, making it ideal for presenting integrated business strategies, project components, or interdependent processes. The visual format effectively demonstrates how separate elements work together harmoniously to achieve a unified objective."
+  },
+  {
+    "identifier": "5_40_metaphors_taking_off",
+    "name": "Taking off – key takeaway here",
+    "description": "This presentation slide template features a clean layout with a prominent heading space for key takeaways and four bullet points for supporting details or action items. The template includes a striking background image of an airplane taking flight against a dramatic sky, making it ideal for presentations about business growth, project launches, new initiatives, or goal achievement. The aviation imagery reinforces themes of progress, momentum, and reaching new heights."
+  },
+  {
+    "identifier": "6_6_project_process_progress_and_people_key_steps_or",
+    "name": "Key steps or phases – with icons as visual reminders",
+    "description": "This presentation slide template displays a four-step process or workflow using a horizontal timeline format with numbered circular icons and connecting arrows. Each step includes a designated space below for descriptive text or content, making it ideal for outlining project phases, procedures, or sequential processes. The template is perfect for business presentations, training materials, or project planning where you need to clearly communicate a step-by-step progression to your audience."
+  },
+  {
+    "identifier": "6_7_project_process_progress_and_people_key_steps_or",
+    "name": "Key steps or phases – broken down by dimensions",
+    "description": "This slide template presents a horizontal process flow designed to break down key steps or phases across multiple dimensions. It features a four-step progression with numbered phases, descriptive text areas, and dimensional breakdowns below each step, making it ideal for illustrating complex processes, project phases, or strategic frameworks where each stage needs to be analyzed from different perspectives or criteria."
+  },
+  {
+    "identifier": "6_8_project_process_progress_and_people_explaining_a_process",
+    "name": "Explaining a process with steps and activities",
+    "description": "This slide template is designed to illustrate sequential processes through a horizontal flow diagram with connected chevron-shaped steps. It features a multi-step process flow with numbered stages and space for detailed activities or descriptions below each step. Ideal for presenting workflows, project phases, operational procedures, or any step-by-step methodology that requires clear visual progression and explanation."
+  },
+  {
+    "identifier": "6_9_project_process_progress_and_people_laying_out_a",
+    "name": "Laying out a process with phases, steps activities and opportunities for improvement",
+    "description": "This process mapping template provides a structured framework for documenting multi-phase workflows with detailed breakdowns of steps, activities, and improvement opportunities. It features a timeline-based layout with color-coded phases and designated spaces for capturing process details and optimization points. Ideal for project management, operational planning, and continuous improvement initiatives where teams need to visualize complex processes and identify areas for enhancement."
+  },
+  {
+    "identifier": "6_10_project_process_progress_and_people_customer_journey",
+    "name": "Customer journey – describing and evaluating",
+    "description": "This slide template provides a structured framework for mapping and analyzing the customer journey across multiple touchpoints. It features a blue arrow-based timeline showing sequential stages of the customer experience, with corresponding evaluation criteria or metrics listed below each stage. The template is designed for businesses to document, assess, and optimize their customer interactions throughout the entire customer lifecycle."
+  },
+  {
+    "identifier": "6_11_project_process_progress_and_people_steps_or_phases",
+    "name": "Steps or phases arranged horizontally to give more space for explanation",
+    "description": "This slide template features a horizontal step-by-step layout designed to provide ample space for detailed explanations of each phase or process step. It includes visual step indicators on the left side with corresponding explanation areas arranged horizontally across the slide. This format is ideal for presenting sequential processes, project phases, or workflow stages where each step requires substantial descriptive content."
+  },
+  {
+    "identifier": "6_12_project_process_progress_and_people_laying_out_a",
+    "name": "Laying out a process that diverges into parallel streams",
+    "description": "This slide template displays a process flow that starts with sequential steps and then splits into two parallel workflow streams. It's designed to illustrate business processes, project workflows, or decision trees where activities branch into concurrent paths. Perfect for presentations explaining complex processes that require simultaneous execution of different work streams."
+  },
+  {
+    "identifier": "6_13_project_process_progress_and_people_circular_process_with",
+    "name": "Circular process, with Step 2 highlighted",
+    "description": "This slide template displays a circular process diagram with four sequential steps arranged around a ring, where Step 2 is visually emphasized or highlighted. It's designed to illustrate cyclical workflows, continuous improvement processes, or recurring business procedures where you want to draw attention to a specific stage. This template is ideal for presentations explaining process flows, project cycles, or operational frameworks where one particular step needs special focus or discussion."
+  },
+  {
+    "identifier": "6_14_project_process_progress_and_people_meandering_process_or",
+    "name": "Meandering process or journey, with beginning, end and two steps highlighted",
+    "description": "This slide template visualizes a meandering process or journey using a curved path with a clear beginning and endpoint. The template highlights two key steps or milestones along the journey path, making it ideal for presenting non-linear processes, customer journeys, or project workflows where specific stages need emphasis. It's particularly useful for illustrating complex processes that don't follow a straight path and require callouts for important decision points or phases."
+  },
+  {
+    "identifier": "6_17_project_process_progress_and_people_milestones_with_flags",
+    "name": "Milestones with flags, showing key dates and what needs to happen between them",
+    "description": "This slide template displays project milestones as a horizontal timeline with flag markers indicating key dates and deliverables. The design includes spaces to document what activities or tasks need to occur between each milestone. It's ideal for project planning presentations, status updates, and communicating project timelines to stakeholders or team members."
+  },
+  {
+    "identifier": "6_18_project_process_progress_and_people_milestones_with_flags",
+    "name": "Milestones with flags, which emphasis of outcome of each milestone",
+    "description": "This slide template presents a timeline visualization showing project milestones with flag-style markers that emphasize the outcomes or deliverables of each milestone. The template features rectangular milestone markers positioned along a horizontal timeline, designed to highlight key project achievements and their specific results. It's ideal for project presentations, progress reports, and strategic planning sessions where you need to clearly communicate milestone completion and their associated outcomes to stakeholders."
+  },
+  {
+    "identifier": "6_19_project_process_progress_and_people_big_phases_progressing",
+    "name": "Big phases progressing – with current focus",
+    "description": "This slide template presents a sequential project or strategic phases overview using a horizontal arrow-style progression design with blue color variations. It's designed to highlight different project stages or milestones while emphasizing the current focus area through visual differentiation. This template is ideal for status updates, project roadmaps, or strategic planning presentations where you need to show progression through multiple phases."
+  },
+  {
+    "identifier": "6_20_project_process_progress_and_people_big_phases_progressing",
+    "name": "Big phases progressing and then splitting in two",
+    "description": "This template visualizes a project or process workflow where major phases progress sequentially before dividing into parallel tracks. The slide uses a series of connected blocks in gradient blue tones to show the progression from unified phases to split execution paths. It's designed for presenting project timelines, strategic roadmaps, or process flows where activities initially move through common stages before branching into separate workstreams."
+  },
+  {
+    "identifier": "6_21_project_process_progress_and_people_phases_progressing_and",
+    "name": "Phases progressing and gaining momentum",
+    "description": "This template displays three progressive phases using overlapping chevron or arrow shapes in a blue gradient from light to dark. It's designed to illustrate sequential stages, processes, or milestones that build momentum over time. Ideal for presenting project phases, strategic roadmaps, or any multi-stage progression where each phase leads to and strengthens the next."
+  },
+  {
+    "identifier": "6_22_project_process_progress_and_people_multiple_workstreams_progressing",
+    "name": "Multiple workstreams progressing in parallel – with accent colors to be carried onto next pages for a visual connection",
+    "description": "This slide template features a horizontal flow of connected hexagonal shapes in gradient blue tones, designed to illustrate multiple parallel workstreams or processes. The accent color scheme is intended to create visual consistency when carried forward to subsequent slides in a presentation. It's ideal for showing concurrent project phases, parallel development tracks, or simultaneous strategic initiatives."
+  },
+  {
+    "identifier": "6_23_project_process_progress_and_people_phases_with_workstream",
+    "name": "Phases with workstream breakdown – with accent colors to be carried onto next pages for a visual connection",
+    "description": "This presentation slide template displays a project phases overview with workstream breakdown sections using accent colors for visual consistency. The template is designed to establish color-coded categories that will be carried forward to subsequent slides, creating a cohesive visual connection throughout the presentation. It's ideal for project planning presentations, strategic roadmaps, or process documentation where maintaining visual continuity across multiple slides is important."
+  },
+  {
+    "identifier": "6_24_project_process_progress_and_people_phases_with_milestones",
+    "name": "Phases with milestones and workstreams",
+    "description": "This template displays a project timeline organized into sequential phases with key milestones and associated workstreams. It features three connected phase boxes with arrows showing progression, and includes structured sections below each phase to detail specific deliverables, tasks, or activities. This format is ideal for project planning presentations, strategic roadmaps, or implementation timelines where clear phase dependencies and detailed breakdowns are essential for stakeholder communication."
+  },
+  {
+    "identifier": "6_26_project_process_progress_and_people_numbered_steps_with",
+    "name": "Numbered steps with details",
+    "description": "This slide template displays a numbered step-by-step process using a horizontal timeline format with three progressive stages. Each step is represented by a numbered circle with accompanying text placeholders below for detailed descriptions. It's ideal for presenting sequential workflows, project phases, or instructional processes where each stage builds upon the previous one."
+  },
+  {
+    "identifier": "6_27_project_process_progress_and_people_3_steps_simple",
+    "name": "3 Steps, simple",
+    "description": "This simple three-step process template presents a clean, ascending stair-step layout ideal for breaking down procedures, workflows, or sequential instructions. The minimalist design with placeholder text boxes allows for easy customization of step descriptions and is perfect for training materials, process documentation, or instructional presentations where clarity and simplicity are essential."
+  },
+  {
+    "identifier": "6_28_project_process_progress_and_people_4_steps_with",
+    "name": "4 Steps with key takeaways",
+    "description": "This slide template presents a four-step process using a staircase or ascending step diagram format, with each step labeled and accompanied by key takeaways or supporting information. It's designed for presentations that need to illustrate sequential progression, process workflows, or building upon previous concepts where each step leads logically to the next. The template is ideal for strategic planning presentations, project roadmaps, or training materials that require clear visualization of multi-stage processes."
+  },
+  {
+    "identifier": "6_29_project_process_progress_and_people_more_steps_with",
+    "name": "More steps with key takeaways – w/o borders for easier editing (delete from bottom to remove steps)",
+    "description": "This is a stepped bar chart template designed to illustrate progressive stages or phases in a process, with each step building upon the previous one in an ascending format. The template features customizable steps with space for key takeaways or descriptions, and includes editable borders that can be easily removed. It's ideal for presenting sequential processes, milestone achievements, or cumulative progress in business presentations and strategic planning documents."
+  },
+  {
+    "identifier": "6_30_project_process_progress_and_people_steps_with_key",
+    "name": "Steps with key takeaways – w/o borders for easier editing, and with icons. Contrast style",
+    "description": "This slide template presents a step-by-step progression using ascending blocks in a vibrant purple gradient design, making it ideal for showcasing sequential processes or milestone achievements. The template includes placeholder text for key takeaways and space for icons, with a borderless design that facilitates easy customization. It's perfect for business presentations, project timelines, or educational content where you need to illustrate growth, progress, or sequential learning objectives."
+  },
+  {
+    "identifier": "6_32_project_process_progress_and_people_multi_workstream_gantt_style_project",
+    "name": "Multi-workstream Gantt-style project timeline",
+    "description": "This slide template displays a multi-workstream Gantt chart for project timeline management, showing different project phases or workstreams represented by horizontal blue bars across a timeline grid. It's designed for project managers and teams to visualize overlapping tasks, dependencies, and overall project scheduling across multiple parallel work tracks. The template is ideal for project planning presentations, status updates, and stakeholder communications where timing coordination between different workstreams is critical."
+  },
+  {
+    "identifier": "6_33_project_process_progress_and_people_large_gantt_style_project",
+    "name": "Large Gantt-style project timeline with responsible and status and current date",
+    "description": "This template provides a comprehensive Gantt chart for project management, displaying task timelines with visual bars, responsible team members, and project status indicators. The template includes a current date marker to track progress against planned schedules and allows for easy identification of task ownership and completion status. It's ideal for project managers who need to present detailed project timelines, track accountability, and communicate project status to stakeholders or team members."
+  },
+  {
+    "identifier": "6_34_project_process_progress_and_people_simple_workstream_status",
+    "name": "Simple workstream status tracker",
+    "description": "This slide presents a simple workstream status tracker template for project management and team coordination. It displays multiple workstream categories with corresponding status indicators using colored dots (red, yellow, green) to represent different completion or progress states. The template is ideal for executive dashboards, team meetings, or project reviews where stakeholders need a quick visual overview of multiple work streams' current status."
+  },
+  {
+    "identifier": "6_35_project_process_progress_and_people_progress_tracker_with",
+    "name": "Progress tracker with traffic lights and blockers",
+    "description": "This progress tracker template uses a traffic light color-coding system (red, yellow, green) to visually indicate the status of multiple projects or tasks. It includes columns for tracking progress details and identifying blockers that may impede completion. This template is ideal for project managers and teams who need to quickly assess project health and address potential roadblocks during status meetings or reviews."
+  },
+  {
+    "identifier": "6_36_project_process_progress_and_people_status_or_progress",
+    "name": "Status or progress tracker with traffic lights and blockers. G,Y, R added for accessibility",
+    "description": "This slide template provides a project status tracking system using traffic light indicators (green, yellow, red) with accessibility enhancements. It displays multiple project items with their current status, progress indicators, and identifies any blockers or issues. This template is ideal for project managers and teams to communicate project health, progress updates, and risk areas in executive dashboards or status meetings."
+  },
+  {
+    "identifier": "6_37_project_process_progress_and_people_large_project_timeline",
+    "name": "Large project timeline with responsible, status and details",
+    "description": "This template displays a comprehensive project timeline in a table format that tracks multiple project tasks or phases. It includes columns for responsible parties, status indicators (shown with colored dots), and detailed project information, making it ideal for program management and stakeholder reporting. The layout is designed for presenting complex project schedules where accountability, current status, and task details need to be communicated clearly to teams and leadership."
+  },
+  {
+    "identifier": "6_38_project_process_progress_and_people_raci",
+    "name": "RACI",
+    "description": "This RACI matrix template helps teams clearly define roles and responsibilities for project tasks or processes. It features a structured grid format where team members or stakeholders are listed across columns and activities/deliverables down rows, with color-coded indicators showing whether each person is Responsible, Accountable, Consulted, or Informed. This template is ideal for project planning, process documentation, and ensuring clear accountability across cross-functional teams."
+  },
+  {
+    "identifier": "6_39_project_process_progress_and_people_progress_tracker_with",
+    "name": "Progress tracker with completion ratio – with Harvey ball icons",
+    "description": "This slide template provides a visual progress tracking system that displays project or task completion ratios using Harvey ball icons (circular progress indicators). The template features a structured table format with columns for tracking different elements alongside their completion status, making it ideal for project status reports, milestone tracking, or performance dashboards. The Harvey ball icons offer an intuitive way to quickly communicate progress levels at a glance."
+  },
+  {
+    "identifier": "6_40_project_process_progress_and_people_status_tracker",
+    "name": "Status tracker – with arrow for KPI having moved up or down",
+    "description": "This slide template provides a status tracking table designed to monitor key performance indicators (KPIs) with visual arrows indicating directional movement (up or down). The table includes columns for different metrics, their current status, and trend indicators to show performance changes over time. It's ideal for executive dashboards, project reviews, or regular business performance meetings where stakeholders need to quickly assess KPI trends and status updates."
+  },
+  {
+    "identifier": "6_42_project_process_progress_and_people_generic_user_customer",
+    "name": "Generic user, customer, or employee profile",
+    "description": "This is a generic profile template designed to display basic information about users, customers, or employees. The slide features a clean layout with a profile icon on the left and structured data fields on the right for essential details. It's ideal for presentations involving team introductions, customer showcases, or organizational charts where standardized profile information needs to be presented clearly."
+  },
+  {
+    "identifier": "7_6_quantitiative_info_minimalist_table",
+    "name": "Minimalist table",
+    "description": "This slide template features a clean, minimalist table design for presenting structured data or information in a clear, organized format. The simple layout includes column headers and rows with placeholder content, making it suitable for displaying financial data, project timelines, comparison charts, or any tabular information. It's ideal for business presentations where clarity and readability are prioritized over decorative elements."
+  },
+  {
+    "identifier": "7_7_quantitiative_info_minimalist_table_with",
+    "name": "Minimalist table with header, highlight and key takeaway",
+    "description": "This minimalist table template features a clean, professional design with a header row, highlighted key data points, and space for summarizing important takeaways. The template is ideal for presenting structured data, metrics, or comparative information in business presentations, reports, or analytical summaries. Its streamlined format ensures focus remains on the essential data while maintaining visual clarity and readability."
+  },
+  {
+    "identifier": "7_8_quantitiative_info_table_with_trackers",
+    "name": "Table with trackers",
+    "description": "This slide template features a structured data table with tracking capabilities, designed for organizing and monitoring information across multiple categories or time periods. The table includes predefined column headers and rows with placeholder content, making it suitable for project tracking, performance metrics, or status reporting. It's ideal for presentations where systematic data comparison and progress monitoring are essential."
+  },
+  {
+    "identifier": "7_9_quantitiative_info_table_with_trackers",
+    "name": "Table with trackers and bar chart for key data",
+    "description": "This slide template combines a data table with an integrated horizontal bar chart to visualize key metrics and performance indicators. The left side displays structured data in rows and columns with numerical values, while the right side presents the same information as proportional blue bars for easy visual comparison. It's ideal for presenting quarterly results, KPI dashboards, or comparative analysis where both detailed numbers and visual trends need to be communicated simultaneously."
+  },
+  {
+    "identifier": "7_10_quantitiative_info_data_table_boxy",
+    "name": "Data table, boxy style",
+    "description": "This presentation slide features a clean, structured data table with a boxy design style that includes clear column headers and organized rows of information. The template is ideal for presenting comparative data, statistics, or any tabular information in a professional business or academic setting. It provides a straightforward way to display multiple data points across different categories in an easy-to-read format."
+  },
+  {
+    "identifier": "7_11_quantitiative_info_data_table_with",
+    "name": "Data table with sum-total",
+    "description": "This slide template features a structured data table with columns for displaying quantitative information and includes a sum-total row for numerical calculations. The template uses a professional blue header design with white data cells arranged in a clean grid format. It's ideal for presenting financial data, budget breakdowns, performance metrics, or any dataset that requires column totals and organized tabular presentation."
+  },
+  {
+    "identifier": "7_12_quantitiative_info_kpi_table",
+    "name": "KPI table",
+    "description": "This template presents a structured KPI (Key Performance Indicator) table for tracking and displaying business metrics across different time periods. The format features a clean tabular layout with color-coded headers and rows for easy data categorization and comparison. It's ideal for executive dashboards, performance reviews, and regular business reporting where multiple KPIs need to be monitored and compared over time."
+  },
+  {
+    "identifier": "7_13_quantitiative_info_performance_eval_table",
+    "name": "Performance eval table, withqualitative flags",
+    "description": "This presentation slide template displays a performance evaluation table that incorporates qualitative assessment flags or indicators alongside quantitative metrics. The template is designed for organizational performance reviews, project assessments, or dashboard reporting where both numerical data and qualitative status indicators (such as color-coded flags or symbols) need to be presented together. It would be ideal for management presentations, team reviews, or stakeholder reports requiring a comprehensive view of performance across multiple criteria or time periods."
+  },
+  {
+    "identifier": "7_14_quantitiative_info_main_kpis_snapshot",
+    "name": "Main KPIs snapshot with trend and thresholds",
+    "description": "This slide template is designed for presenting key performance indicators (KPIs) in a visual dashboard format with trend analysis and performance thresholds. The layout features six colored rectangular sections (blue, green, red, and yellow) that can display different KPI metrics along with their current status and directional trends. It's ideal for executive summaries, performance reviews, or regular business reporting where stakeholders need a quick overview of critical metrics and their performance against established benchmarks."
+  },
+  {
+    "identifier": "7_15_quantitiative_info_main_kpis_snapshot",
+    "name": "Main KPIs snapshot with trend, thresholds and descriptions",
+    "description": "This slide template provides a dashboard-style overview of key performance indicators (KPIs) with visual trend indicators and performance status. Each KPI is displayed in colored tiles (green, orange, red) that likely represent performance thresholds or status levels, along with trend arrows and descriptive text. It's designed for executive reporting and performance monitoring presentations where stakeholders need a quick visual assessment of multiple critical metrics."
+  },
+  {
+    "identifier": "7_16_quantitiative_info_detailed_kpi_tracking",
+    "name": "Detailed KPI tracking",
+    "description": "This slide template presents a comprehensive KPI tracking dashboard designed to monitor multiple performance indicators across different categories or time periods. It features a structured layout with color-coded metrics, progress bars, and status indicators that enable teams to quickly assess performance against targets. This template is ideal for executive reporting, project management reviews, or departmental performance meetings where stakeholders need a clear overview of key business metrics and their current status."
+  },
+  {
+    "identifier": "7_17_quantitiative_info_okr_table_colorful",
+    "name": "OKR table, colorful",
+    "description": "This slide template provides a colorful table format for displaying Objectives and Key Results (OKRs) in an organized, visually appealing way. The template features multiple colored rows and columns that allow teams to categorize and track different objectives, key results, and their progress status using distinct color coding. It's ideal for quarterly business reviews, team meetings, or strategic planning sessions where clear visual representation of OKR progress and priorities is needed."
+  },
+  {
+    "identifier": "7_18_quantitiative_info_heatmap",
+    "name": "Heatmap",
+    "description": "This slide template displays a heatmap visualization using a blue color gradient to represent data intensity across different categories and time periods or variables. The template is designed to show patterns, correlations, or performance metrics in a matrix format where darker shades indicate higher values or stronger relationships. It's ideal for presenting comparative data analysis, performance tracking, or identifying trends across multiple dimensions in business reports and analytical presentations."
+  },
+  {
+    "identifier": "7_19_quantitiative_info_cross_comparison_table",
+    "name": "Cross comparison table with data",
+    "description": "This slide template features a cross-comparison table designed to systematically compare multiple items, products, or concepts across various criteria or attributes. The table uses a clean grid format with placeholder text, making it ideal for presenting detailed comparisons, feature analysis, or evaluation matrices. It's commonly used in business presentations, product reviews, competitive analysis, or decision-making processes where stakeholders need to evaluate options side-by-side."
+  },
+  {
+    "identifier": "7_27_quantitiative_info_reasoning_on_the",
+    "name": "Reasoning on the left, chart with quantitative impact on the right",
+    "description": "This slide template provides a structured layout for presenting analytical findings with supporting rationale on the left side and quantitative data visualization on the right. It features a text area for detailed reasoning, assumptions, or methodology alongside a bar chart displaying numerical results or metrics. This format is ideal for business presentations, research reports, or strategic reviews where you need to explain the logic behind your analysis while simultaneously showing measurable outcomes or impacts."
+  },
+  {
+    "identifier": "7_28_quantitiative_info_two_related_metrics",
+    "name": "Two related metrics represented with bar charts",
+    "description": "This slide template demonstrates how to visualize two related metrics using bar chart formats. It features side-by-side bar charts that allow for easy comparison of connected data sets, with one showing a simple two-bar comparison and the other displaying a five-bar trend or category breakdown. This template is ideal for presenting comparative analytics, performance metrics, or any scenario where two complementary data stories need to be told together in a clear, visual format."
+  },
+  {
+    "identifier": "7_29_quantitiative_info_country_flags_as",
+    "name": "Country flags as visual entry points – limit to known flags",
+    "description": "This slide template demonstrates the use of country flags as visual entry points in data visualization, with the caveat to limit usage to well-known flags. It features a horizontal bar chart on the left showing data by country with corresponding flag icons, and a vertical bar chart on the right displaying the same data in a different format. The template is designed for international business presentations, market analysis, or demographic reports where country-specific data needs to be communicated clearly to global audiences."
+  },
+  {
+    "identifier": "7_30_quantitiative_info_funnel_chart_with",
+    "name": "Funnel chart with explanation on the right",
+    "description": "This slide template features a funnel chart visualization positioned on the left side with dedicated space for explanatory content on the right. It's designed for presenting sequential data, conversion processes, or step-by-step analyses where each stage needs detailed explanation. Ideal for sales funnels, process workflows, or any scenario requiring both visual data representation and comprehensive descriptive text."
+  },
+  {
+    "identifier": "7_69_quantitiative_info_clustering_countries_with",
+    "name": "Clustering countries with flags – use when flags are recognizable and geographic position doesn’t matter",
+    "description": "This slide template demonstrates how to group countries using flag icons when visual flag recognition is more important than geographic positioning. It shows a clustered arrangement of multiple country flags organized in rows, making it suitable for presentations where countries need to be categorized by criteria other than location, such as trade partnerships, economic development levels, or policy alignments. This layout is ideal for international business, policy analysis, or comparative studies where flag identification aids audience understanding."
+  }
+]

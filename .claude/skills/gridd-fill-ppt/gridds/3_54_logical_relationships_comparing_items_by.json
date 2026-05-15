@@ -1,0 +1,1524 @@
+{
+  "cols": [
+    "*",
+    "*",
+    "*",
+    "*",
+    "*"
+  ],
+  "rows": [
+    0.6,
+    1.2,
+    1.2,
+    "*",
+    1.2
+  ],
+  "cells": [
+    [
+      {
+        "id": "edc6e5ca-0a5c-49cb-b8d3-aee048a61679",
+        "text": ""
+      },
+      {
+        "id": "eb4efb63-7de2-4204-a14f-9a06a701c641",
+        "text": "[Item 1]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Item 1]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "7f92f0ca-77ef-4095-8bc8-3735fc8498d7",
+        "text": "[Item 2]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Item 2]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "f4c56944-95fb-440f-a8eb-c9e89ae72a14",
+        "text": "[Item 3]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Item 3]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "58fb3c35-d139-4c35-8237-59cd9f3cb242",
+        "text": "[Item 4]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#FFFFFF",
+                        "fontFamily": "Arial",
+                        "fontSize": "8.25pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Item 4]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "d0c0411d-674c-4db7-bf00-e92e556ffb4b",
+        "text": "[Feature 1]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Feature 1]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "e399f0be-0703-4185-9505-897337621db2",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "8f394905-0811-412e-9f23-c8ddb5adb55d",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "639d2064-217e-489b-8171-99c80f68b93b",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "dd7dd1f7-c9f3-4461-806e-40f6e5a408c1",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "f9934a72-72de-4048-8c5c-64ea6ee056ba",
+        "text": "[Feature 2]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Feature"
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": " 2]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "6981f243-a748-4044-848f-2973222701ed",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "8587f580-c036-4f65-8a71-242f7831039b",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "a77a1f91-f195-4478-938a-943b28a57e3f",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "0da432c4-457f-4fff-9a08-0a1afcb4f419",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "eaf54d2e-6f47-4533-a17f-dcd501e955e0",
+        "text": "[Feature 3]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Feature"
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": " 3]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "9250e36a-62a2-47be-8cec-aa502184703b",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "14e7bd66-991c-484f-a457-4e998854a844",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "5e2c7bfe-1b56-4b42-b554-bd4dedeffedf",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "4bb6823b-c1af-4312-92b2-de6f43ce6c6c",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "05977b0e-c13a-476f-89e7-9077a42ee0ac",
+        "text": "[Feature 4]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "["
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": ""
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Feature"
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "9.75pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": " 4]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "56648bc0-fc49-4937-a60d-2b7b2d7db612",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "9b988ebf-9de3-4264-88c4-89b7903222af",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "708468d2-66ff-4b32-9d0c-0e4fbd81894d",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "rgb(51, 51, 51)",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "b83d6e49-fd55-4fef-87be-0a5eb2b08142",
+        "text": "[Comments]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "6.75pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Comments]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "06d68cf8-1fac-4847-a615-596cd11150dd",
+      "index": 2,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#c0c0c0",
+      "style": "solid",
+      "preset": "level4",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "a490b48b-6742-4594-9304-68ba586c1da2",
+      "index": 3,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#c0c0c0",
+      "style": "solid",
+      "preset": "level4",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "3a8a8188-3b23-4dc8-af81-bd6e1dcc950e",
+      "index": 1,
+      "isVertical": false,
+      "weight": 2,
+      "color": "#001866",
+      "style": "solid",
+      "preset": "level2",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "adc3a000-52fb-4165-bc2a-ef209bd92a06",
+      "index": 5,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#333333",
+      "style": "solid",
+      "preset": "level3",
+      "from": 0,
+      "to": null
+    },
+    {
+      "id": "5765d752-c4f1-4e32-9c6a-f3deba21e9c5",
+      "index": 4,
+      "isVertical": false,
+      "weight": 1,
+      "color": "#c0c0c0",
+      "style": "solid",
+      "preset": "level4",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "global": {
+      "fontSizeAdd": -3
+    },
+    "edc6e5ca-0a5c-49cb-b8d3-aee048a61679": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "preset": "Header",
+      "colorName": "text2",
+      "isInverted": true,
+      "fontUnderlined": false
+    },
+    "eb4efb63-7de2-4204-a14f-9a06a701c641": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 0,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "fontUnderlined": false
+    },
+    "7f92f0ca-77ef-4095-8bc8-3735fc8498d7": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 0,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "fontUnderlined": false
+    },
+    "f4c56944-95fb-440f-a8eb-c9e89ae72a14": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 0,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "fontUnderlined": false
+    },
+    "58fb3c35-d139-4c35-8237-59cd9f3cb242": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "#001866",
+        "radius": 0,
+        "colorName": "accent1",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "margin": 3
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#FFFFFF",
+      "colorName": "text2",
+      "isInverted": true,
+      "preset": "Header",
+      "background": "transparent",
+      "backgroundName": "none",
+      "fontUnderlined": false
+    },
+    "d0c0411d-674c-4db7-bf00-e92e556ffb4b": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "transparent",
+        "radius": 0,
+        "margin": 4,
+        "colorName": "none",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "isInverted": false,
+      "textAlign": "left",
+      "verticalAlign": "middle"
+    },
+    "e399f0be-0703-4185-9505-897337621db2": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "icon": "lucide:Check",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#009917",
+      "iconColorName": "success",
+      "fontUnderlined": false
+    },
+    "8f394905-0811-412e-9f23-c8ddb5adb55d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:Check",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#009917",
+      "iconColorName": "success",
+      "fontUnderlined": false
+    },
+    "639d2064-217e-489b-8171-99c80f68b93b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:Check",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#009917",
+      "iconColorName": "success",
+      "fontUnderlined": false
+    },
+    "dd7dd1f7-c9f3-4461-806e-40f6e5a408c1": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "transparent",
+      "backgroundName": "none",
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "f9934a72-72de-4048-8c5c-64ea6ee056ba": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "transparent",
+        "radius": 0,
+        "margin": 4,
+        "colorName": "none",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "isInverted": false,
+      "textAlign": "left",
+      "verticalAlign": "middle"
+    },
+    "6981f243-a748-4044-848f-2973222701ed": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "icon": "lucide:Check",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#009917",
+      "iconColorName": "success",
+      "fontUnderlined": false
+    },
+    "8587f580-c036-4f65-8a71-242f7831039b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:Check",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#009917",
+      "iconColorName": "success",
+      "fontUnderlined": false
+    },
+    "a77a1f91-f195-4478-938a-943b28a57e3f": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "0da432c4-457f-4fff-9a08-0a1afcb4f419": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "transparent",
+      "backgroundName": "none",
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "eaf54d2e-6f47-4533-a17f-dcd501e955e0": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "transparent",
+        "radius": 0,
+        "margin": 4,
+        "colorName": "none",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "isInverted": false,
+      "textAlign": "left",
+      "verticalAlign": "middle"
+    },
+    "9250e36a-62a2-47be-8cec-aa502184703b": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "icon": "lucide:Check",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#009917",
+      "iconColorName": "success",
+      "fontUnderlined": false
+    },
+    "14e7bd66-991c-484f-a457-4e998854a844": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "5e2c7bfe-1b56-4b42-b554-bd4dedeffedf": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "4bb6823b-c1af-4312-92b2-de6f43ce6c6c": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "transparent",
+      "backgroundName": "none",
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "05977b0e-c13a-476f-89e7-9077a42ee0ac": {
+      "shape": {
+        "type": "RoundedRectangle",
+        "color": "transparent",
+        "radius": 0,
+        "margin": 4,
+        "colorName": "none",
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1"
+      },
+      "weight": "bold",
+      "style": "normal",
+      "size": "13pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "colorName": "text",
+      "isInverted": false,
+      "textAlign": "left",
+      "verticalAlign": "middle"
+    },
+    "56648bc0-fc49-4937-a60d-2b7b2d7db612": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "#e8f0fa",
+      "backgroundName": "secondary2",
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "9b988ebf-9de3-4264-88c4-89b7903222af": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "708468d2-66ff-4b32-9d0c-0e4fbd81894d": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    },
+    "b83d6e49-fd55-4fef-87be-0a5eb2b08142": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "9pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "padding": 3,
+      "background": "transparent",
+      "backgroundName": "none",
+      "icon": "lucide:X",
+      "iconAlign": "left",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#DD0000",
+      "iconColorName": "danger",
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [],
+    "rowColors": []
+  },
+  "merged": []
+}

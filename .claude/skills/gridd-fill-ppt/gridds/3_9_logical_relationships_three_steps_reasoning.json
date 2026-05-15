@@ -1,0 +1,774 @@
+{
+  "cols": [
+    1.6029228755345974,
+    0.6808830084153386,
+    1.6029228755345974,
+    0.6878318086894765,
+    1.6029228755345974
+  ],
+  "rows": [
+    0.7854289462951206,
+    1.6306675092284106
+  ],
+  "cells": [
+    [
+      {
+        "id": "3af13709-e3f2-4529-9acc-8106e238f6c0",
+        "text": "[Trend]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Trend]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "93308f26-a657-428c-959c-53181de3591f",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "41bb1002-675a-44ee-8915-530b38a45e11",
+        "text": "[Trend]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "13.5pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Trend]"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "94e2a707-72f0-4a31-8348-91c05dd22603",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "d8686304-c421-44e4-b949-8d993da98179",
+        "text": "[Result]",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "16pt",
+                        "lineHeight": null
+                      }
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "[Result]"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    [
+      {
+        "id": "8efa86ff-994a-4578-8bec-95c0aae0d7e0",
+        "text": "[Description paragraph.  \n\n\nInteger porta egestas erat vitae faucibus. Donec faucibus nisl id cursus auctor. \n\nNunc in nisi eget sapien tincidunt malesuada]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": null,
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": null
+                      }
+                    }
+                  ],
+                  "text": "[Description paragraph. "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "rgb(255, 255, 255)",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "rgb(255, 255, 255)",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "10.5pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "Integer porta egestas erat vitae faucibus. Donec faucibus nisl id cursus auctor. "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "rgb(255, 255, 255)",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "10.5pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "Nunc in nisi eget sapien tincidunt malesuada]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "0b282437-48f1-4517-ad48-7a19c0ce2fa6",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "center"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "cb0a012e-0903-4293-81f7-724bf2bd6cb4",
+        "text": "[Description paragraph. \n\n\nInteger porta egestas erat vitae faucibus. Donec faucibus nisl id cursus auctor. \n\nNunc in nisi eget sapien tincidunt malesuada]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Description paragraph"
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "rgb(255, 255, 255)",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": ". "
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "rgb(255, 255, 255)",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "10.5pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "Integer porta egestas erat vitae faucibus. Donec faucibus nisl id cursus auctor. "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "rgb(255, 255, 255)",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "10.5pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "Nunc in nisi eget sapien tincidunt malesuada]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "76a9dfe6-55e4-4d77-b5de-65ab26c55de5",
+        "text": "",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": "e6287587-dd8c-4b34-bca6-b5bb9dba9d87",
+        "text": "[Description paragraph.\n\n\nInteger porta egestas erat vitae faucibus. Donec faucibus nisl id cursus auctor. \n\nNunc in nisi eget sapien tincidunt malesuada]\n",
+        "json": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "backgroundColor": "",
+                        "color": "#333333",
+                        "fontFamily": "Arial",
+                        "fontSize": "10.5pt",
+                        "lineHeight": ""
+                      }
+                    }
+                  ],
+                  "text": "[Description paragraph."
+                }
+              ]
+            },
+            {
+              "type": "bulletList",
+              "content": [
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "rgb(255, 255, 255)",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "10.5pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "Integer porta egestas erat vitae faucibus. Donec faucibus nisl id cursus auctor. "
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "listItem",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "attrs": {
+                        "textAlign": null
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "marks": [
+                            {
+                              "type": "textStyle",
+                              "attrs": {
+                                "backgroundColor": "rgb(255, 255, 255)",
+                                "color": "#333333",
+                                "fontFamily": "Arial",
+                                "fontSize": "10.5pt",
+                                "lineHeight": ""
+                              }
+                            }
+                          ],
+                          "text": "Nunc in nisi eget sapien tincidunt malesuada]"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": null
+              }
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "borders": [
+    {
+      "id": "79bd0738-3437-4caa-b6b2-f8107f0dac68",
+      "index": 1,
+      "isVertical": false,
+      "weight": 2,
+      "color": "#001866",
+      "style": "solid",
+      "preset": "level2",
+      "from": 0,
+      "to": null
+    }
+  ],
+  "cellStyles": {
+    "global": {
+      "fontSizeAdd": 2
+    },
+    "3af13709-e3f2-4529-9acc-8106e238f6c0": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "phosphor:TrendDownIcon",
+      "iconAlign": "center",
+      "iconSize": 28,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "fontUnderlined": false
+    },
+    "93308f26-a657-428c-959c-53181de3591f": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "filled",
+      "iconColor": "#4C05FF",
+      "iconColorName": "accent2",
+      "shape": {
+        "type": "ArrowThin",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "margin": 10,
+        "marginPerc": 0,
+        "marginLeftPerc": 20,
+        "marginRightPerc": 20,
+        "zIndex": 1
+      },
+      "fontUnderlined": false
+    },
+    "41bb1002-675a-44ee-8915-530b38a45e11": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "lucide:TrendingUp",
+      "iconAlign": "center",
+      "iconSize": 28,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "94e2a707-72f0-4a31-8348-91c05dd22603": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "filled",
+      "iconColor": "#4C05FF",
+      "iconColorName": "accent2",
+      "shape": {
+        "type": "ArrowThin",
+        "color": "#001866",
+        "colorName": "accent1",
+        "outline": "none",
+        "outlineWeight": 1,
+        "outlineColor": "#001866",
+        "outlineColorName": "accent1",
+        "shadow": 0,
+        "margin": 10,
+        "marginPerc": 0,
+        "marginLeftPerc": 20,
+        "marginRightPerc": 20,
+        "zIndex": 1
+      },
+      "fontUnderlined": false
+    },
+    "d8686304-c421-44e4-b949-8d993da98179": {
+      "weight": "bold",
+      "style": "normal",
+      "size": "18pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Header",
+      "colorName": "text",
+      "icon": "atlas:StarLightbulb",
+      "iconAlign": "center",
+      "iconSize": 28,
+      "iconEnclosure": "filled",
+      "iconColor": "#001866",
+      "iconColorName": "accent1",
+      "fontUnderlined": false
+    },
+    "8efa86ff-994a-4578-8bec-95c0aae0d7e0": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "0b282437-48f1-4517-ad48-7a19c0ce2fa6": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "shape": {
+        "marginLeft": 5,
+        "marginRight": 5
+      },
+      "fontUnderlined": false
+    },
+    "cb0a012e-0903-4293-81f7-724bf2bd6cb4": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    },
+    "76a9dfe6-55e4-4d77-b5de-65ab26c55de5": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false,
+      "iconAlign": "center",
+      "iconSize": "normal",
+      "iconEnclosure": "none",
+      "iconColor": "#001866",
+      "iconColorName": "accent1"
+    },
+    "e6287587-dd8c-4b34-bca6-b5bb9dba9d87": {
+      "weight": "normal",
+      "style": "normal",
+      "size": "14pt",
+      "fontFamily": "Arial",
+      "color": "#333333",
+      "preset": "Body",
+      "colorName": "text",
+      "padding": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "fontUnderlined": false
+    }
+  },
+  "spacerStyles": {
+    "columnColors": [
+      "transparent",
+      "transparent",
+      "transparent",
+      "transparent",
+      "transparent"
+    ],
+    "rowColors": []
+  },
+  "merged": [
+    {
+      "cell": {
+        "id": "93308f26-a657-428c-959c-53181de3591f",
+        "x": 0,
+        "y": 1
+      },
+      "length": 1,
+      "dir": "down"
+    },
+    {
+      "cell": {
+        "id": "7490f4b9-ec83-44e5-a734-afe1649379dd",
+        "x": 0,
+        "y": 5
+      },
+      "length": 1,
+      "dir": "down"
+    },
+    {
+      "cell": {
+        "id": "2d101f65-0b9c-47b5-930f-0a798c39e858",
+        "x": 0,
+        "y": 7
+      },
+      "length": 1,
+      "dir": "down"
+    },
+    {
+      "cell": {
+        "x": 0,
+        "y": 3
+      },
+      "length": 1,
+      "dir": "down"
+    }
+  ]
+}
