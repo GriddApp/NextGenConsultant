@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Tech North Star
 
 The ideal aspiration for the group-wide tech organizations supporting all business goals.
