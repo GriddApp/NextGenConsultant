@@ -6,6 +6,7 @@ import {
   chartEmbed,
   d3Embed,
 } from "@gridd/docusaurus-visuals-plugin/remark";
+import { remarkSlides } from "@gridd/docusaurus-slides-plugin/remark";
 
 const GRIDD_COMMON_STYLE = "/style/style.gridd.json";
 const D3_SPEC_BASE_URL = "/style/d3";
@@ -30,7 +31,10 @@ const config: Config = {
 
   themes: ["@docusaurus/theme-mermaid"],
 
-  plugins: ["@gridd/docusaurus-visuals-plugin"],
+  plugins: [
+    "@gridd/docusaurus-visuals-plugin",
+    "@gridd/docusaurus-slides-plugin",
+  ],
   customFields: {
     griddEmbedBaseUrl:
       "https://wonderful-smoke-03be4ab0f.5.azurestaticapps.net/embeddable.html",
@@ -124,8 +128,8 @@ const config: Config = {
         {
           position: "right",
           label: "GitHub",
-          href: "https://github.com/GriddApp/NextGenConsultant"
-        }
+          href: "https://github.com/GriddApp/NextGenConsultant",
+        },
       ],
     },
     footer: {
