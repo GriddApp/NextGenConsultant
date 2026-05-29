@@ -34,6 +34,7 @@ const config: Config = {
   plugins: [
     "@gridd/docusaurus-visuals-plugin",
     "@gridd/docusaurus-slides-plugin",
+    "@gridd/docusaurus-feedback-plugin",
   ],
   customFields: {
     griddEmbedBaseUrl:
@@ -123,6 +124,7 @@ const config: Config = {
           items: [
             { label: "README", to: "/about/readme" },
             { label: "License", to: "/about/license" },
+            { label: "Feedback & Review", to: "/about/review" },
           ],
         },
         {
